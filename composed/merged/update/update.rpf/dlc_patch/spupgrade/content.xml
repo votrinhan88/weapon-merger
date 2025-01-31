@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/ai/weaponHatchet.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/ai/weaponRailGun.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+   <Item>
+      <filename>dlcSPUpgrade:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/upgradeContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/%PLATFORM%/levels/gta5/vehicles/upgradevehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/buffalo3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/dominator2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/dukes_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/blista2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/blista3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcSPUpgrade:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>SPUPGRADE_MAP_CHANGE</changeSetName>
+      <mapChangeSetData>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>SPUPGRADE_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcSPUpgrade:/common/data/handling.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/overlayinfo.xml</Item>		
+        <Item>dlcSPUpgrade:/common/data/ai/loadouts.meta</Item>	
+        <Item>dlcSPUpgrade:/common/data/ai/vehiclelayouts.meta</Item>	
+        <Item>dlcSPUpgrade:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/anim/clip_sets/clip_sets.xml</Item>	
+        <Item>dlcSPUpgrade:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/carcols.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/carvariations.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/dlctext.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/explosion.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcSPUpgrade:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlcSPUpgrade:/common/data/pedpersonality.meta</Item>
+        <Item>dlcSPUpgrade:/common/data/shop_vehicle.meta</Item>	
+        <Item>dlcSPUpgrade:/common/data/shop_weapon.meta</Item>	
+		<Item>dlcSPUpgrade:/common/data/spStatsSetup.xml</Item>
+        <Item>dlcSPUpgrade:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlcSPUpgrade:/common/data/weaponArchetypes.meta</Item>		
+        <Item>dlcSPUpgrade:/%PLATFORM%/levels/gta5/vehicles/upgradevehicles.rpf</Item>
+        <Item>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/buffalo3_mods.rpf</Item>
+        <Item>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/dominator2_mods.rpf</Item>
+        <Item>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/dukes_mods.rpf</Item>
+        <Item>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/blista2_mods.rpf</Item>
+        <Item>dlcSPUpgrade:/%PLATFORM%/levels/spupgrade/vehiclemods/blista3_mods.rpf</Item>
+        <Item>dlcSPUpgrade:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlcSPUpgrade:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>		
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>SPUPGRADE_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcSPUpgrade:/common/data/upgradeContentUnlocks.meta</Item>	  
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>SPUPGRADE_VERSIONED</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

@@ -1,0 +1,979 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehiclelayouts_Menacer.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_menacer.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_speedo4.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_Mule4.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_hacker.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_oppressor2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_Pounder2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_scramjet.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_strikeforce.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+  	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/interiors/int_placement_ba.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/interiors/int_01_ba.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/interiors/int_02_ba.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/interiors/int_03_ba.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/ai/weaponStoneHatchet.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/mpBattleIPL.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Drones.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Drones.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	 <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_DJ.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_DJ.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Crates.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Crates.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_02.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_03.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_04.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_05.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_Content.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_Content.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Bomb.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Bomb.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Tent.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Tent.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/audio/sfx/dlc_Battle</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+    <filename>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/audio/sfx/dlc_Battle_Music</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/effects/explosionfx.dat</filename>
+      <fileType>EXPLOSIONFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/contentunlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/vehicles/mpbattle.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattleCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item> 
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/vehlivery_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/pbus2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/mule4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/speedo4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/pounder2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/blimp3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/swinger_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/strikeforce_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/patriot2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/menacer_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/oppressor2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/freecrawler_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/stafford_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/patriot_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/scramjet_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/peds.meta</filename>
+      <fileType>PED_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_cutspeds.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_female.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_female_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/mp_f_freemode_01_mpbattle_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_male.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_male_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattleCRC:/common/data/mp_m_freemode_01_mpbattle_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/peds/mpbattle.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/peds/mpbattle_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_bmad.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_club.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_dixn.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_smun.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_tale.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  	<Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBattle:/%PLATFORM%/levels/gta5/navmeshes.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>	
+      <filename>dlc_mpBattle:/common/data/effects/ptfxassetinfo.meta</filename>
+      <fileType>PTFXASSETINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpBattleCRC:/common/data/effects/peds/mpBattle_overlays.xml</filename>
+	  <fileType>PED_OVERLAY_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpBattle_ped_mp_overlay_txds.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+    <Item>
+      <filename>dlc_mpBattle:/common/data/srllist.meta</filename>
+      <fileType>STREAMING_REQUEST_LISTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	</dataFiles>	
+	<contentChangeSets>
+	 <Item>
+	 <changeSetName>MPBATTLE_AUTOGEN</changeSetName>
+	 <mapChangeSetData />
+	 <filesToInvalidate />
+	 <filesToDisable />
+	 <filesToEnable>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehiclelayouts.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehiclelayouts_Menacer.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_menacer.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_speedo4.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_hacker.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_Mule4.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_oppressor2.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_Pounder2.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_scramjet.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/ai/vehicleweapons_strikeforce.meta</Item>
+        <Item>dlc_mpBattleCRC:/common/data/ai/weaponanimations.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/explosion.meta</Item>
+		<Item>dlc_mpBattle:/common/data/interiorProxies.meta</Item>
+		<Item>dlc_mpBattle:/common/data/overlayinfo.xml</Item>
+        <Item>dlc_mpBattleCRC:/common/data/ai/loadouts.meta</Item>	
+        <Item>dlc_mpBattleCRC:/common/data/handling.meta</Item>
+		<Item>dlc_mpBattle:/common/data/srllist.meta</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Drones.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Drones.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_DJ.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_DJ.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Crates.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Crates.ityp</Item>		
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_02.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_02.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_03.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_03.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_04.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_04.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_05.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_05.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Lights_Content.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Lights_Content.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Bomb.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Bomb.ityp</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/Prop_Battle_Tent.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/props/ba_Prop_Battle_Tent.ityp</Item>
+		<Item>dlc_mpBattle:/common/data/shop_vehicle.meta</Item>	
+        <Item>dlc_mpBattle:/common/data/shop_weapon.meta</Item>	
+		<Item>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_game.dat</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_sounds.dat</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_mix.dat</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_amp.dat</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/audio/sfx/dlc_Battle</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/audio/sfx/dlc_Battle_Music</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/audio/dlcBattle_speech.dat</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/audio/occlusion.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlc_mpBattle:/common/data/anim/clip_sets/clip_sets.xml</Item>
+		<Item>dlc_mpBattleCRC:/common/data/effects/explosionfx.dat</Item>
+		<Item>dlc_mpBattle:/common/data/effects/scriptfx.dat</Item>
+		<Item>dlc_mpBattle:/common/data/mpStatsSetup.xml</Item>	
+        <Item>dlc_mpBattle:/common/data/pedpersonality.meta</Item>
+        <Item>dlc_mpBattle:/common/data/shop_tattoo.meta</Item>
+		<Item>dlc_mpBattle:/common/data/contentunlocks.meta</Item>
+        <Item>dlc_mpBattle:/common/data/weaponArchetypes.meta</Item>		
+		<Item>dlc_mpBattle:/common/data/dlctext.meta</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/vehicles/mpbattle.rpf</Item>
+		<Item>dlc_mpBattleCRC:/common/data/levels/gta5/vehicles.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/carcols.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/carvariations.meta</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/vehlivery_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/pbus2_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/mule4_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/speedo4_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/pounder2_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/blimp3_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/swinger_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/strikeforce_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/patriot2_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/menacer_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/oppressor2_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/freecrawler_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/stafford_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/patriot_mods.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/levels/mpbattle/vehiclemods/scramjet_mods.rpf</Item>
+        <Item>dlc_mpBattle:/common/data/peds.meta</Item>		
+		<Item>dlc_mpBattleCRC:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlc_mpBattle:/common/data/effects/peds/first_person_alternates.meta</Item>
+        <Item>dlc_mpBattle:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_cutspeds.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_female.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_female_p.rpf</Item>
+		<Item>dlc_mpBattleCRC:/common/data/mp_f_freemode_01_mpbattle_shop.meta</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_male.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpbattle_male_p.rpf</Item>
+		<Item>dlc_mpBattleCRC:/common/data/mp_m_freemode_01_mpbattle_shop.meta</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/peds/mpbattle.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/peds/mpbattle_p.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_bmad.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_club.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_dixn.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_smun.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/anim/cutscene/cuts_tale.rpf</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlc_mpBattle:/common/data/effects/ptfxassetinfo.meta</Item>
+		<Item>dlc_mpBattleCRC:/common/data/effects/peds/mpBattle_overlays.xml</Item>
+		<Item>dlc_mpBattle:/%PLATFORM%/models/cdimages/mpBattle_ped_mp_overlay_txds.rpf</Item>
+	 </filesToEnable>
+		  <txdToLoad />
+		  <txdToUnload />
+		  <residentResources />
+		  <unregisterResources />
+		  <requiresLoadingScreen value="false" />
+		</Item>
+		<Item>
+		  <changeSetName>MPBATTLE_INTERIOR_ADDITIONS</changeSetName>
+		  <mapChangeSetData>
+			<Item>
+				<associatedMap>MO_JIM_L11</associatedMap>
+				<filesToInvalidate />
+				<filesToEnable>
+					<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/interiors/int_01_ba.rpf</Item>
+					<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/interiors/int_02_ba.rpf</Item>
+					<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/interiors/int_03_ba.rpf</Item>
+					<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/interiors/int_placement_ba.rpf</Item>
+					<Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/mpBattleIPL.rpf</Item>
+				</filesToEnable>
+			</Item>
+		  </mapChangeSetData>	
+		</Item>
+	<Item>
+      <changeSetName>MPBATTLE_MAP_UPDATE</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+            
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>	
+    <Item>
+      <changeSetName>MPBATTLE_MAP_UPDATE_NAVMESH_ONLY</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlc_mpBattle:/%PLATFORM%/levels/gta5/navmeshes.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+	  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

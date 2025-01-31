@@ -1,0 +1,1051 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/srllist.meta</filename>
+      <fileType>STREAMING_REQUEST_LISTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLowriderCRC:/common/data/effects/peds/mpLowrider_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_12.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_23.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" /></Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_00b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/scentral.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/scentral_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+      <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_rd.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/country_04_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_09.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/country_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/cs6_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/cs6_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/cs6_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/country_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/country_06_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/interiors/supermod_garage_int.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_supermod_door_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_supermod_door_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_supermod_lframe.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	 <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_supermod_lFrame.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_rail_col_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_rail_col_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>    
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_carburettor_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_carburettor_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_carkey_fob.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_carkey_fob.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item> 
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_boathousedoor.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_boathousedoor.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>   
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_suitbag_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_suitbag_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>    
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_clubstool_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_clubstool_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/ai/weaponMachete.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/ai/weaponMachinePistol.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/LowriderContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/audio/sfx/dlc_lowrider</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/audio/dlclowrider_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/audio/dlclowrider_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/audio/dlclowrider_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/audio/dlclowrider_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/audio/dlclowrider_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/gta5/vehicles/lowvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/moonbeam2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/primo2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/faction2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+   <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/voodoo_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+   <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/chino2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>      
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/buccaneer2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/supermod1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/smod1wheels_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/voo_supermod1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/pri_supermod1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/fac_supermod1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/chi_supermod1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/buc_supermod1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/moon_supermod1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowriderCRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_female.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_female_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/mp_f_freemode_01_lowrider_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_male.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_male_p.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/mp_m_freemode_01_lowrider_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/expressions.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/peds.meta</filename>
+      <fileType>PED_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_DRV.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_FIN.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_FUN.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>	
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_INT.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_PHO.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_TRA.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLowrider:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  </dataFiles>
+  <dataFiles />
+  <contentChangeSets>
+	<Item>
+      <changeSetName>MPLOWRIDER_GTA5_CITYE_INDUST_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+			<Item>platform:/levels/gta5/_citye/indust_01/id1_occl.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+			<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_occl.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPLOWRIDER_GTA5_CITYE_SCENTRAL_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_00b.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_02.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/scentral_01/sc1_10.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_11.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_12.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_23.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/scentral_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/scentral.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_rd.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_00b.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_02.rpf</Item>
+			<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_10.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_11.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_12.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_23.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/scentral.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/interiors/supermod_garage_int.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/scentral_metadata.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_occl.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_rd.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPLOWRIDER_GTA5_HILLS_COUNTRY_06</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+			<Item>platform:/levels/gta5/_hills/country_06/cs6_03.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_06/cs6_04.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_06/cs6_08.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_06/country_06_metadata.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_06/country_06.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/cs6_03.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/cs6_04.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/cs6_08.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/country_06_metadata.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_06/country_06.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPLOWRIDER_GTA5_HILLS_COUNTRY_04</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+			<Item>platform:/levels/gta5/_hills/country_04/cs4_02.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_04/cs4_04.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_04/cs4_06.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_04/cs4_09.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_04/cs4_10.rpf</Item>
+      <Item>platform:/levels/gta5/_hills/country_04/country_04.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_04/country_04_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_02.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_04.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_06.rpf</Item>
+			<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_09.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_10.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/country_04.rpf</Item>
+            <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/_hills/country_04/country_04_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPLOWRIDER_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpLowrider:/common/data/srllist.meta</Item>
+        <Item>dlc_mpLowrider:/common/data/overlayinfo.xml</Item>
+		<Item>dlc_mpLowriderCRC:/common/data/effects/peds/mpLowrider_overlays.xml</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlc_mpLowrider:/common/data/interiorProxies.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/handling.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/carcols.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/carvariations.meta</Item>
+        <Item>dlc_mpLowrider:/common/data/dlctext.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlc_mpLowrider:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/shop_tattoo.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlc_mpLowrider:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/audio/dlcLowrider_GAME.DAT</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/audio/dlcLowrider_SOUNDS.DAT</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/audio/dlcLowrider_speech.DAT</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/audio/dlcLowrider_MIX.DAT</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/audio/dlcLowrider_AMP.DAT</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/audio/sfx/dlc_lowrider</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/audio/occlusion.rpf</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_boathousedoor.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_boathousedoor.ityp</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_carburettor_01.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_carburettor_01.ityp</Item>
+	        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_carkey_fob.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_carkey_fob.ityp</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_clubstool_01.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_clubstool_01.ityp</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_rail_col_01.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_rail_col_01.ityp</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_suitbag_01.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_suitbag_01.ityp</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_supermod_door_01.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_supermod_door_01.ityp</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/prop_supermod_lframe.rpf</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/props/lr_prop_supermod_lframe.ityp</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/gta5/vehicles/lowvehicles.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/moonbeam2_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/faction2_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/voodoo_mods.rpf</Item>   
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/chino2_mods.rpf</Item>           
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/buccaneer2_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/supermod1_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/smod1wheels_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/primo2_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/voo_supermod1_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/pri_supermod1_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/fac_supermod1_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/chi_supermod1_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/moon_supermod1_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/levels/mplowrider/vehiclemods/buc_supermod1_mods.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlc_mpLowriderCRC:/common/data/pedalternatevariations.meta</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_female.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_female_p.rpf</Item>
+        <Item>dlc_mpLowrider:/common/data/mp_f_freemode_01_lowrider_shop.meta</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_male.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mplowrider_male_p.rpf</Item>
+        <Item>dlc_mpLowrider:/common/data/mp_m_freemode_01_lowrider_shop.meta</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/anim/expressions.rpf</Item>
+        <Item>dlc_mpLowrider:/common/data/peds.meta</Item>
+        <Item>dlc_mpLowrider:/common/data/effects/peds/first_person_alternates.meta</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mpLowrider.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/models/cdimages/mpLowrider_p.rpf</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_DRV.rpf</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_FIN.rpf</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_FUN.rpf</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_INT.rpf</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_PHO.rpf</Item>
+		<Item>dlc_mpLowrider:/%PLATFORM%/anim/cutscene/cuts_LOW_TRA.rpf</Item>
+        <Item>dlc_mpLowrider:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+		<Item>dlc_mpLowrider:/common/data/effects/scriptfx.dat</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLOWRIDER_UNLOCKS_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpLowriderCRC:/common/data/LowriderContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

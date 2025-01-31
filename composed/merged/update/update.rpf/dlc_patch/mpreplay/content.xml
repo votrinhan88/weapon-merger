@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpReplay:/common/data/mp_f_freemode_01_replay_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpReplay:/common/data/mp_m_freemode_01_replay_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpReplay:/%PLATFORM%/models/cdimages/mpReplay_female.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpReplay:/%PLATFORM%/models/cdimages/mpReplay_male.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpReplay:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpReplay:/common/data/replayContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpReplay:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpReplay:/%PLATFORM%/audio/dlcsfx1_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpReplay:/%PLATFORM%/audio/dlcsfx1_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>    	
+	<Item>
+      <filename>dlc_mpReplay:/%PLATFORM%/audio/sfx/dlc_sfx1</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpReplay:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPREPLAY_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+	  <filesToEnable>
+		<Item>dlc_mpReplay:/common/data/mp_f_freemode_01_replay_shop.meta</Item>
+		<Item>dlc_mpReplay:/common/data/mp_m_freemode_01_replay_shop.meta</Item>
+        <Item>dlc_mpReplay:/%PLATFORM%/models/cdimages/mpReplay_female.rpf</Item>
+        <Item>dlc_mpReplay:/%PLATFORM%/models/cdimages/mpReplay_male.rpf</Item>
+        <Item>dlc_mpReplay:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlc_mpReplay:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+		<Item>dlc_mpReplay:/%PLATFORM%/audio/dlcsfx1_GAME.DAT</Item>
+        <Item>dlc_mpReplay:/%PLATFORM%/audio/dlcsfx1_SOUNDS.DAT</Item>
+		<Item>dlc_mpReplay:/%PLATFORM%/audio/sfx/dlc_sfx1</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>	
+    <Item>
+      <changeSetName>MPREPLAY_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpReplay:/common/data/replayContentUnlocks.meta</Item>
+      </filesToEnable>
+	  <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPREPLAY_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

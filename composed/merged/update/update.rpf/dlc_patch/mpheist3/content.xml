@@ -1,0 +1,1533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/navmeshes.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/vehiclelayouts_Formula.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/vehiclelayouts_Zhaba.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/vehicleweapon_jb700.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/vehicleweapon_rctank.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/weapon_navyrevolver.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/weapon_hazardcan.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/weapon_ceramicpistol.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/ai/weapon_tranquilizer.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" /> 
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/effects/explosionfx.dat</filename>
+      <fileType>EXPLOSIONFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/contentunlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3CRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/vehicles/mpheist3.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/yosemite2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/minitank_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/racecarwheels_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/formula_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/formula2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/Stryder_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/Sugoi_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/kanjo_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/imorgon_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/rebla_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/vstr_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/komoda_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/asbo_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/sultan2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/zhaba_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/everon_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/retinue2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/vagrant_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/furia_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/jb7002_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+      <Item>
+        <filename>dlc_mpHeist3:/common/data/interiorProxies.meta</filename>
+        <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+        <overlay value="false" />
+        <disabled value="true" />
+        <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/int_placement_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_01_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_02_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_03_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_04_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_06_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_07_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_08_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_09_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_10_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_11_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_12_ch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Collectibles_Freemode.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Collectibles_Freemode.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Mission_Freemode.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Mission_Freemode.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Claw.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Claw.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Collect.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Collect.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Degenatron.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Degenatron.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Drones.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Drones.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Fortune.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Fortune.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Gun.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Gun.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Jukebox.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Jukebox.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Race.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Race.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Love.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Love.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Space.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Space.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Street.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Street.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Wizard.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Wizard.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Accs_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Accs_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Accs_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Accs_02.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Backarea.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Backarea.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Drones.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Drones.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Lucky_Wheel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Lucky_Wheel.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Machinery.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Machinery.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Main.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Main.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Main_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Main_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Security.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Security.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Slots.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Slots.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Tables.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Tables.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Trophies.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Trophies.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Vault.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Vault.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_DES_Tunnel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_DES_Tunnel.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_DES_Tunnel_END.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_DES_Tunnel_END.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_DES_Vault_Door.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_DES_Vault_Door.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_DES_Vault_Door_END.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_DES_Vault_Door_END.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Morgue.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Morgue.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Penthouse.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Penthouse.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Track.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Track.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Tunnel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Tunnel.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	 <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Vault.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Vault.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+ 	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/audio/sfx/dlc_Heist3</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/anim/ingame/clip_anim_heist@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/anim/ingame/clip_anim_casino_a@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/anim/ingame/clip_anim_casino_b@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/anim/cutscene/cuts_hs3.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/anim/cutscene/cuts_hs3f.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/_cityw/additions_01/mph3_add.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <loadCompletely value="true" />
+	  <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/levels/gta5/_cityw/additions_01/mph3_add_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+	  <loadCompletely value="true" />
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+		<Item>
+        <filename>dlc_mpHeist3:/common/data/overlayinfo.xml</filename>
+        <fileType>OVERLAY_INFO_FILE</fileType>
+        <overlay value="false" />
+        <disabled value="true" />
+        <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/peds.meta</filename>
+      <fileType>PED_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/peds/mpHeist3.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/peds/mpHeist3_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/peds/mpHeist3_cutspeds.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/peds/mpHeist3_cutspeds_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_male.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_male_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/mp_m_freemode_01_mpHeist3_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_female.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_female_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/mp_f_freemode_01_mpHeist3_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3CRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/%PLATFORM%/anim/expressions.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpHeist3CRC:/common/data/effects/peds/mpHeist3_overlays.xml</filename>
+	  <fileType>PED_OVERLAY_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_ped_mp_overlay_txds.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+	<Item>
+      <filename>dlc_mpHeist3:/common/data/srllist.meta</filename>
+      <fileType>STREAMING_REQUEST_LISTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpHeist3:/common/data/effects/ptfxassetinfo.meta</filename>
+      <fileType>PTFXASSETINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+ </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPHEIST3_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+      	<Item>dlc_mpHeist3:/common/data/overlayinfo.xml</Item>
+		<Item>dlc_mpHeist3:/common/data/interiorProxies.meta</Item>
+		<Item>dlc_mpHeist3:/common/data/srllist.meta</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Collectibles_Freemode.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Collectibles_Freemode.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Mission_Freemode.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Mission_Freemode.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Claw.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Claw.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Collect.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Collect.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Degenatron.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Degenatron.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Drones.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Drones.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Fortune.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Fortune.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Gun.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Gun.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Jukebox.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Jukebox.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Love.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Love.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Race.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Race.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Space.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Space.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Street.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Street.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Arcade_Wizard.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Arcade_Wizard.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Accs_01.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Accs_01.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Accs_02.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Accs_02.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Backarea.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Backarea.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Drones.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Drones.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Lucky_Wheel.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Lucky_Wheel.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Machinery.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Machinery.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Main.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Main.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Main_01.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Main_01.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Security.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Security.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Slots.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Slots.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Tables.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Tables.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Trophies.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Trophies.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Casino_Vault.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Casino_Vault.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_DES_Tunnel.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_DES_Tunnel.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_DES_Tunnel_END.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_DES_Tunnel_END.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_DES_Vault_Door.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_DES_Vault_Door.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_DES_Vault_Door_END.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_DES_Vault_Door_END.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Morgue.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Morgue.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Penthouse.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Penthouse.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Track.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Track.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Tunnel.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Tunnel.ityp</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/Prop_CH_Vault.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/props/ch_Prop_CH_Vault.ityp</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/vehicles/mpheist3.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/yosemite2_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/minitank_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/racecarwheels_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/formula_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/formula2_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/Stryder_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/Sugoi_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/kanjo_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/imorgon_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/rebla_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/vstr_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/komoda_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/asbo_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/sultan2_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/zhaba_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/everon_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/retinue2_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/vagrant_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/furia_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/levels/mpHeist3/vehiclemods/jb7002_mods.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/ai/loadouts.meta</Item>		
+		<Item>dlc_mpHeist3CRC:/common/data/ai/vehiclelayouts.meta</Item>		
+		<Item>dlc_mpHeist3CRC:/common/data/ai/vehiclelayouts_Formula.meta</Item>		
+		<Item>dlc_mpHeist3CRC:/common/data/ai/vehiclelayouts_Zhaba.meta</Item>		
+		<Item>dlc_mpHeist3CRC:/common/data/ai/vehicleweapon_jb700.meta</Item>		
+		<Item>dlc_mpHeist3CRC:/common/data/ai/vehicleweapon_rctank.meta</Item>		
+		<Item>dlc_mpHeist3CRC:/common/data/ai/weaponanimations.meta</Item>			
+		<Item>dlc_mpHeist3CRC:/common/data/ai/weaponcomponents.meta</Item>		
+		<Item>dlc_mpHeist3:/common/data/anim/clip_sets/clip_sets.xml</Item>	
+		<Item>dlc_mpHeist3CRC:/common/data/effects/explosionfx.dat</Item>	
+        <Item>dlc_mpHeist3CRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlc_mpHeist3:/common/data/carcols.meta</Item>
+        <Item>dlc_mpHeist3:/common/data/carvariations.meta</Item>
+        <Item>dlc_mpHeist3:/common/data/dlctext.meta</Item>
+        <Item>dlc_mpHeist3CRC:/common/data/explosion.meta</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/handling.meta</Item>
+		<Item>dlc_mpHeist3:/common/data/mpStatsSetup.xml</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/pedpersonality.meta</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/shop_vehicle.meta</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/shop_weapon.meta</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/shop_tattoo.meta</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/weaponArchetypes.meta</Item>
+	
+		<Item>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_sounds.dat</Item>
+     	<Item>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_game.dat</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_mix.dat</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_amp.dat</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/audio/sfx/dlc_Heist3</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/audio/dlcHeist3_speech.dat</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/audio/occlusion.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/anim/ingame/clip_anim_heist@.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/anim/ingame/clip_anim_casino_a@.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/anim/ingame/clip_anim_casino_b@.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/anim/cutscene/cuts_hs3.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/anim/cutscene/cuts_hs3f.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+        <Item>dlc_mpHeist3:/common/data/peds.meta</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/peds/mpHeist3.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/peds/mpHeist3_p.rpf</Item>		
+        <Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/peds/mpHeist3_cutspeds.rpf</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/peds/mpHeist3_cutspeds_p.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_male.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_male_p.rpf</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/mp_m_freemode_01_mpHeist3_shop.meta</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_female.rpf</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_female_p.rpf</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/mp_f_freemode_01_mpHeist3_shop.meta</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlc_mpHeist3:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlc_mpHeist3:/common/data/effects/peds/first_person_alternates.meta</Item>
+        <Item>dlc_mpHeist3:/%PLATFORM%/anim/expressions.rpf</Item>
+        <Item>dlc_mpHeist3:/common/data/effects/scriptfx.dat</Item>
+		<Item>dlc_mpHeist3CRC:/common/data/effects/peds/mpHeist3_overlays.xml</Item>
+		<Item>dlc_mpHeist3:/%PLATFORM%/models/cdimages/mpHeist3_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlc_mpHeist3:/common/data/effects/ptfxassetinfo.meta</Item>
+ </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST3_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpHeist3CRC:/common/data/contentunlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST3_INTERIOR_ADDITIONS</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToEnable>
+            
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_01_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_02_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_03_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_04_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_06_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_07_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_08_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_09_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_10_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_11_ch.rpf</Item>
+			<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/dlc_int_12_ch.rpf</Item>
+            <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/interiors/int_placement_ch.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+	    <Item>
+      <changeSetName>MPHEIST3_MAP_UPDATE</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+			<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/_cityw/additions_01/mph3_add.rpf</Item>
+			<Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/_cityw/additions_01/mph3_add_metadata.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+  	<Item>
+        <changeSetName>MPHEIST3_MAP_UPDATE_NAVMESH_ONLY</changeSetName>
+        <mapChangeSetData>
+          <Item>
+            <associatedMap>MO_JIM_L11</associatedMap>
+            <filesToInvalidate />
+            <filesToDisable />
+            <filesToEnable>
+              <Item>dlc_mpHeist3:/%PLATFORM%/levels/gta5/navmeshes.rpf</Item>
+            </filesToEnable>
+            <txdToLoad />
+            <txdToUnload />
+            <residentResources />
+            <unregisterResources />
+          </Item>
+        </mapChangeSetData>
+        <filesToInvalidate />
+        <filesToDisable />
+        <filesToEnable />
+        <txdToLoad />
+        <txdToUnload />
+        <residentResources />
+        <unregisterResources />
+        <requiresLoadingScreen value="true" />
+        <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+        <useCacheLoader value="true" />
+      </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

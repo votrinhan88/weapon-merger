@@ -1,0 +1,1099 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+	<Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts_apc.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts_dune3.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts_halftrack.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts_trailer.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_apc.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_dune3.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_halftrack.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_mine.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_oppressor.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_tampa3.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_trailer.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/weapons_assaultrifle_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/weapons_carbinerifle_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/weapons_combatmg_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/weapons_heavysniper_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/weapons_pistol_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/ai/weapons_smg_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>    
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/contentunlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunning:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunning:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunningCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/grdlc_interior_placement.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/gr_entrance_placement.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/grdlc_yacht_lod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/grdlc_int_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/grdlc_int_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/yacht.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/yacht_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <loadCompletely value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/grdlc_yacht_placement.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/grdlc_yacht_int.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/DLC_GR_chair.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_DLC_GR_chair.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/DLC_gr_yacht_props.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_DLC_gr_yacht_props.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/DLC_GRInterior_props.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_DLC_GRInterior_props.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/DLC_GRInterior_LightRig_props.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_DLC_GRInterior_LightRig_props.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_missile.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_missile.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/MP_GR_Landing_Pads.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_MP_GR_Landing_Pads.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Machinery.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Machinery.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Machinery_CNC.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Machinery_CNC.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Appliances.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Appliances.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_BunkerDoor.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_BunkerDoor.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Mine.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Mine.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Gates.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Gates.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/Prop_GR_Benches.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_Prop_GR_Benches.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/Prop_GR_CratesPile.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_Prop_GR_CratesPile.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/Prop_GR_Para_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_Prop_GR_Para_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_crates.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_crates.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+		<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/Prop_GR_GunSmithSUPL.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_Prop_GR_GunSmithSUPL.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/vehicles/mpgunrunningvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/vagner_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>     
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/dune3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item> 
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/apc_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>  
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/nightshark_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item> 
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/halftrack_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item> 
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/ardent_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item> 
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/cheetah2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/tampa3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/torero_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/insurgent3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/trailersmall2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/technical3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/trailerlarge_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/xa21_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/oppressor_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/anim/cutscene/cuts_bunk.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/audio/sfx/dlc_Gunrunning</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunningCRC:/common/data/mp_f_freemode_01_gunrunning_hair_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunningCRC:/common/data/mp_m_freemode_01_gunrunning_hair_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunningCRC:/common/data/mp_f_freemode_01_gunrunning_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunningCRC:/common/data/mp_m_freemode_01_gunrunning_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunningCRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/mpgunrunning_female.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/mpgunrunning_female_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/mpgunrunning_male.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/mpgunrunning_male_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/peds/mpgunrunning.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/peds/mpgunrunning_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  	<Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpGunrunningCRC:/common/data/effects/peds/mpGunrunning_overlays.xml</filename>
+	  <fileType>PED_OVERLAY_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/mpGunrunning_ped_mp_overlay_txds.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/common/data/peds.meta</filename>
+      <fileType>PED_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpGunrunning:/common/data/effects/ptfxassetinfo.meta</filename>
+      <fileType>PTFXASSETINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPGUNRUNNING_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+	  <filesToEnable>
+		<Item>dlc_mpGunRunningCRC:/common/data/handling.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/loadouts.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts_apc.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts_dune3.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts_halftrack.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehiclelayouts_trailer.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_apc.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_dune3.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_halftrack.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_mine.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_oppressor.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_tampa3.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/vehicleweapons_trailer.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/weaponanimations.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/ai/weaponcomponents.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/anim/clip_sets/clip_sets.xml</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/levels/gta5/vehicles.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/carcols.meta</Item>		
+		<Item>dlc_mpGunRunningCRC:/common/data/carvariations.meta</Item>
+		<Item>dlc_mpGunRunning:/common/data/dlctext.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/explosion.meta</Item>
+		<Item>dlc_mpGunRunning:/common/data/interiorProxies.meta</Item>
+		<Item>dlc_mpGunRunning:/common/data/mpStatsSetup.xml</Item>
+		<Item>dlc_mpGunRunning:/common/data/mpStatsUISetup.xml</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/mp_f_freemode_01_gunrunning_hair_shop.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/mp_m_freemode_01_gunrunning_hair_shop.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/mp_f_freemode_01_gunrunning_shop.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/mp_m_freemode_01_gunrunning_shop.meta</Item>
+	    <Item>dlc_mpGunRunning:/common/data/overlayinfo.xml</Item>
+	    <Item>dlc_mpGunRunningCRC:/common/data/pedpersonality.meta</Item>
+	    <Item>dlc_mpGunRunningCRC:/common/data/shop_tattoo.meta</Item>
+	    <Item>dlc_mpGunRunningCRC:/common/data/shop_vehicle.meta</Item>
+	    <Item>dlc_mpGunRunningCRC:/common/data/shop_weapon.meta</Item>
+	    <Item>dlc_mpGunRunningCRC:/common/data/weaponArchetypes.meta</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/anim/cutscene/cuts_bunk.rpf</Item>
+		<Item>dlc_mpGunrunning:/%PLATFORM%/audio/sfx/dlc_Gunrunning</Item>
+	    <Item>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_amp.dat</Item>
+        <Item>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_game.dat</Item>
+		<Item>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_mix.dat</Item>
+		<Item>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_sounds.dat</Item>
+		<Item>dlc_mpGunrunning:/%PLATFORM%/audio/dlcGunrunning_speech.dat</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/audio/occlusion.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/vehicles/mpgunrunningvehicles.rpf</Item>	
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/DLC_GR_chair.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_DLC_GR_chair.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/DLC_gr_yacht_props.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_DLC_gr_yacht_props.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/DLC_GRInterior_props.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_DLC_GRInterior_props.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/DLC_GRInterior_LightRig_props.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_DLC_GRInterior_LightRig_props.ityp</Item>
+	    <Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Missile.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Missile.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/MP_GR_Landing_Pads.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_MP_GR_Landing_Pads.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Machinery.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Machinery.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Machinery_CNC.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Machinery_CNC.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Appliances.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Appliances.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_BunkerDoor.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_BunkerDoor.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Mine.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Mine.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_Gates.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_Gates.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/Prop_GR_Benches.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_Prop_GR_Benches.ityp</Item>
+			<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/Prop_GR_CratesPile.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_Prop_GR_CratesPile.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/Prop_GR_Para_01.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_Prop_GR_Para_01.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/prop_GR_crates.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_prop_GR_crates.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/Prop_GR_GunSmithSUPL.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/props/gr_Prop_GR_GunSmithSUPL.ityp</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/vagner_mods.rpf</Item>
+	    <Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/xa21_mods.rpf</Item>		
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/dune3_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/apc_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/nightshark_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/halftrack_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/ardent_mods.rpf</Item>	
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/cheetah2_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/tampa3_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/torero_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/insurgent3_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/technical3_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/trailersmall2_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/trailerlarge_mods.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/levels/mpgunrunning/vehiclemods/oppressor_mods.rpf</Item>
+        <Item>dlc_mpGunrunning:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlc_mpGunrunning:/common/data/effects/peds/first_person_alternates.meta</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/models/cdimages/mpgunrunning_female.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/models/cdimages/mpgunrunning_female_p.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/models/cdimages/mpgunrunning_male.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/models/cdimages/mpgunrunning_male_p.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/models/cdimages/peds/mpgunrunning.rpf</Item>
+		<Item>dlc_mpGunRunning:/%PLATFORM%/models/cdimages/peds/mpgunrunning_p.rpf</Item>
+		<Item>dlc_mpGunrunning:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlc_mpGunRunning:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+        <Item>dlc_mpGunRunning:/common/data/effects/scriptfx.dat</Item>
+		<Item>dlc_mpGunRunningCRC:/common/data/effects/peds/mpGunRunning_overlays.xml</Item>
+	    <Item>dlc_mpGunRunning:/%PLATFORM%/models/cdimages/mpGunRunning_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlc_mpGunRunning:/common/data/peds.meta</Item>
+        <Item>dlc_mpGunRunning:/common/data/effects/ptfxassetinfo.meta</Item>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>	
+    <Item>
+      <changeSetName>MPGUNRUNNING_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+		<Item>dlc_mpGunRunningCRC:/common/data/contentunlocks.meta</Item>
+      </filesToEnable>
+	  <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+	<Item>
+      <changeSetName>MPGUNRUNNING_INTERIOR_ADDITIONS</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToEnable>
+			<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/gr_entrance_placement.rpf</Item>
+			<Item>dlc_mpGunrunning:/%PLATFORM%/levels/gta5/interiors/grdlc_interior_placement.rpf</Item>
+			<Item>dlc_mpGunrunning:/%PLATFORM%/levels/gta5/interiors/grdlc_int_01.rpf</Item>
+			<Item>dlc_mpGunrunning:/%PLATFORM%/levels/gta5/interiors/grdlc_int_02.rpf</Item>
+			<Item>dlc_mpGunRunning:/%PLATFORM%/levels/gta5/interiors/grdlc_yacht_placement.rpf</Item>
+			<Item>dlc_mpGunrunning:/%PLATFORM%/levels/gta5/interiors/grdlc_yacht_lod.rpf</Item>
+			<Item>dlc_mpGunrunning:/%PLATFORM%/levels/gta5/interiors/grdlc_yacht_int.rpf</Item>
+			<Item>dlc_mpGunrunning:/%PLATFORM%/levels/gta5/interiors/yacht.rpf</Item>
+			<Item>dlc_mpGunrunning:/%PLATFORM%/levels/gta5/interiors/yacht_metadata.rpf</Item>				
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item> 
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

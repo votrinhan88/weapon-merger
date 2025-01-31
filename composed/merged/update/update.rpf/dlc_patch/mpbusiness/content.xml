@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/ai/weaponHeavyPistol.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/ai/weaponSpecialCarbine.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/effects/peds/mpBusiness_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/ui/CacheAndCarry.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/ui/Docktease.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/ui/ElitasTravel.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/ui/LegendaryMotorsport.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/ui/SuperAutos.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/businessContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/mp_f_freemode_01_business_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/mp_m_freemode_01_business_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusinessCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/audio/dlcbusiness_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/audio/dlcbusiness_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/data/cdimages/Docktease.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/data/cdimages/ElitasTravel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/data/cdimages/SuperAutos.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/data/cdimages/Warstock.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/levels/gta5/vehicles/mpBusinessVehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/levels/mpbusiness/vehiclemods/alpha_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/levels/mpbusiness/vehiclemods/jester_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/levels/mpbusiness/vehiclemods/turismor_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/models/cdimages/mpbusiness.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/models/cdimages/mpbusiness_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/models/cdimages/mpbusiness_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBusiness:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlcMPBusiness:/common/data/ExtraFolderMount.xml</filename>
+      <fileType>EXTRA_FOLDER_MOUNT_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>		
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPBUSINESS_AUTOGEN</changeSetName>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+		<Item>dlcMPBusiness:/common/data/effects/peds/first_person.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/handling.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlcMPBusiness:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlcMPBusiness:/common/data/effects/peds/mpBusiness_overlays.xml</Item>
+        <Item>dlcMPBusinessCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/carcols.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/carvariations.meta</Item>
+        <Item>dlcMPBusiness:/common/data/dlctext.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/mp_f_freemode_01_business_shop.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/mp_m_freemode_01_business_shop.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcMPBusiness:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlcMPBusiness:/common/data/overlayinfo.xml</Item>
+        <Item>dlcMPBusinessCRC:/common/data/pedalternatevariations.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/shop_tattoo.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlcMPBusinessCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlcMPBusiness:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlcMPBusinessCRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/audio/dlcbusiness_GAME.DAT</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/audio/dlcbusiness_SOUNDS.DAT</Item>
+		<Item>dlcMPBusiness:/%PLATFORM%/audio/occlusion.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/levels/gta5/vehicles/mpbusinessvehicles.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/levels/mpbusiness/vehiclemods/alpha_mods.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/levels/mpbusiness/vehiclemods/jester_mods.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/levels/mpbusiness/vehiclemods/turismor_mods.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/models/cdimages/mpbusiness.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/models/cdimages/mpbusiness_p.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/models/cdimages/mpbusiness_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlcMPBusiness:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPBUSINESS_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBusinessCRC:/common/data/businessContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness_Docktease</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBusiness:/%PLATFORM%/data/cdimages/docktease.rpf</Item>
+        <Item>dlcMPBusiness:/common/data/ui/Docktease.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness_CacheAndCarry</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBusiness:/%PLATFORM%/data/cdimages/warstock.rpf</Item>
+        <Item>dlcMPBusiness:/common/data/ui/CacheAndCarry.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness_SuperAutos</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBusiness:/%PLATFORM%/data/cdimages/superautos.rpf</Item>
+        <Item>dlcMPBusiness:/common/data/ui/SuperAutos.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness_LegendaryMotorsport</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBusiness:/%PLATFORM%/data/cdimages/legendarymotsport.rpf</Item>
+        <Item>dlcMPBusiness:/common/data/ui/LegendaryMotorsport.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness_ElitasTravel</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBusiness:/%PLATFORM%/data/cdimages/elitastravel.rpf</Item>
+        <Item>dlcMPBusiness:/common/data/ui/ElitasTravel.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+	
+    <Item>
+      <changeSetName>MPBUSINESS_UGC_VERSIONED</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+		<Item>dlcMPBusiness:/common/data/ExtraFolderMount.xml</Item>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>	
+    <Item>
+      <changeSetName>MPBUSINESS_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPBUSINESS_MP_FIXES</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPBUSINESS_MP_BEACH_FIXES</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPBUSINESS_MP_VAL_FIXES</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+	
+  </contentChangeSets>
+  
+  <patchFiles>
+  </patchFiles>
+
+</CDataFileMgr__ContentsOfDataFileXml>

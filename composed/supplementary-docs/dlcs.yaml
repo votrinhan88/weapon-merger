@@ -1,0 +1,1025 @@
+base:
+  base:
+    path: update/update.rpf
+    weapons:
+    - update/update.rpf/common/data/ai/weapons.meta
+    pickups:
+    - update/update.rpf/common/data/pickups.meta
+    content: []
+mpbeach:
+  base:
+    path: x64w.rpf/dlcpacks/mpbeach/dlc.rpf
+    weapons:
+    - x64w.rpf/dlcpacks/mpbeach/dlc.rpf/common/data/ai/weaponbottle.meta
+    - x64w.rpf/dlcpacks/mpbeach/dlc.rpf/common/data/ai/weaponsnspistol.meta
+    pickups:
+    - x64w.rpf/dlcpacks/mpbeach/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/mpbeach/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpbeach
+    weapons:
+    - update/update.rpf/dlc_patch/mpbeach/common/data/ai/weaponsnspistol.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mpbeach/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mpbeach/content.xml
+mpbusiness:
+  base:
+    path: x64w.rpf/dlcpacks/mpbusiness/dlc.rpf
+    weapons:
+    - x64w.rpf/dlcpacks/mpbusiness/dlc.rpf/common/data/ai/weaponheavypistol.meta
+    - x64w.rpf/dlcpacks/mpbusiness/dlc.rpf/common/data/ai/weaponspecialcarbine.meta
+    pickups:
+    - x64w.rpf/dlcpacks/mpbusiness/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/mpbusiness/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpbusiness
+    weapons:
+    - update/update.rpf/dlc_patch/mpbusiness/common/data/ai/weaponheavypistol.meta
+    - update/update.rpf/dlc_patch/mpbusiness/common/data/ai/weaponspecialcarbine.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mpbusiness/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mpbusiness/content.xml
+mpchristmas:
+  base:
+    path: x64w.rpf/dlcpacks/mpchristmas/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpchristmas
+    weapons: []
+    pickups: []
+    content: []
+mpvalentines:
+  base:
+    path: x64w.rpf/dlcpacks/mpvalentines/dlc.rpf
+    weapons:
+    - x64w.rpf/dlcpacks/mpvalentines/dlc.rpf/common/data/ai/weapongusenberg.meta
+    pickups:
+    - x64w.rpf/dlcpacks/mpvalentines/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/mpvalentines/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpvalentines
+    weapons:
+    - update/update.rpf/dlc_patch/mpvalentines/common/data/ai/weapongusenberg.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mpvalentines/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mpvalentines/content.xml
+mpbusiness2:
+  base:
+    path: x64w.rpf/dlcpacks/mpbusiness2/dlc.rpf
+    weapons:
+    - x64w.rpf/dlcpacks/mpbusiness2/dlc.rpf/common/data/ai/weaponbullpuprifle.meta
+    pickups:
+    - x64w.rpf/dlcpacks/mpbusiness2/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/mpbusiness2/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpbusiness2
+    weapons:
+    - update/update.rpf/dlc_patch/mpbusiness2/common/data/ai/weaponbullpuprifle.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mpbusiness2/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mpbusiness2/content.xml
+mphipster:
+  base:
+    path: x64w.rpf/dlcpacks/mphipster/dlc.rpf
+    weapons:
+    - x64w.rpf/dlcpacks/mphipster/dlc.rpf/common/data/ai/weapondagger.meta
+    - x64w.rpf/dlcpacks/mphipster/dlc.rpf/common/data/ai/weaponvintagepistol.meta
+    pickups:
+    - x64w.rpf/dlcpacks/mphipster/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/mphipster/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mphipster
+    weapons:
+    - update/update.rpf/dlc_patch/mphipster/common/data/ai/weaponvintagepistol.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mphipster/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mphipster/content.xml
+mpindependence:
+  base:
+    path: x64w.rpf/dlcpacks/mpindependence/dlc.rpf
+    weapons:
+    - x64w.rpf/dlcpacks/mpindependence/dlc.rpf/common/data/ai/weaponfirework.meta
+    - x64w.rpf/dlcpacks/mpindependence/dlc.rpf/common/data/ai/weaponmusket.meta
+    pickups:
+    - x64w.rpf/dlcpacks/mpindependence/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/mpindependence/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpindependence
+    weapons:
+    - update/update.rpf/dlc_patch/mpindependence/common/data/ai/weaponfirework.meta
+    - update/update.rpf/dlc_patch/mpindependence/common/data/ai/weaponmusket.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mpindependence/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mpindependence/content.xml
+mppilot:
+  base:
+    path: x64w.rpf/dlcpacks/mppilot/dlc.rpf
+    weapons: []
+    pickups:
+    - x64w.rpf/dlcpacks/mppilot/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/mppilot/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mppilot
+    weapons: []
+    pickups:
+    - update/update.rpf/dlc_patch/mppilot/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mppilot/content.xml
+spupgrade:
+  base:
+    path: x64w.rpf/dlcpacks/spupgrade/dlc.rpf
+    weapons:
+    - x64w.rpf/dlcpacks/spupgrade/dlc.rpf/common/data/ai/weaponhatchet.meta
+    - x64w.rpf/dlcpacks/spupgrade/dlc.rpf/common/data/ai/weaponrailgun.meta
+    pickups:
+    - x64w.rpf/dlcpacks/spupgrade/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/spupgrade/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/spupgrade
+    weapons:
+    - update/update.rpf/dlc_patch/spupgrade/common/data/ai/weaponhatchet.meta
+    - update/update.rpf/dlc_patch/spupgrade/common/data/ai/weaponrailgun.meta
+    pickups:
+    - update/update.rpf/dlc_patch/spupgrade/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/spupgrade/content.xml
+mplts:
+  base:
+    path: x64w.rpf/dlcpacks/mplts/dlc.rpf
+    weapons:
+    - x64w.rpf/dlcpacks/mplts/dlc.rpf/common/data/ai/weaponheavyshotgun.meta
+    - x64w.rpf/dlcpacks/mplts/dlc.rpf/common/data/ai/weaponmarksmanrifle.meta
+    pickups:
+    - x64w.rpf/dlcpacks/mplts/dlc.rpf/common/data/pickups.meta
+    content:
+    - x64w.rpf/dlcpacks/mplts/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mplts
+    weapons:
+    - update/update.rpf/dlc_patch/mplts/common/data/ai/weaponheavyshotgun.meta
+    - update/update.rpf/dlc_patch/mplts/common/data/ai/weaponmarksmanrifle.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mplts/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mplts/content.xml
+mpheist:
+  base:
+    path: update/x64/dlcpacks/mpheist/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpheist/dlc.rpf/common/data/ai/weaponflaregun.meta
+    - update/x64/dlcpacks/mpheist/dlc.rpf/common/data/ai/weapongarbagebag.meta
+    - update/x64/dlcpacks/mpheist/dlc.rpf/common/data/ai/weaponhandcuffs.meta
+    pickups:
+    - update/x64/dlcpacks/mpheist/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpheist/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpheist
+    weapons:
+    - update/update.rpf/dlc_patch/mpheist/common/data/ai/weaponflaregun.meta
+    pickups: []
+    content:
+    - update/update.rpf/dlc_patch/mpheist/content.xml
+mppatchesng:
+  base:
+    path: update/x64/dlcpacks/mppatchesng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mppatchesng
+    weapons: []
+    pickups: []
+    content: []
+patchday1ng:
+  base:
+    path: update/x64/dlcpacks/patchday1ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/patchday1ng
+    weapons: []
+    pickups: []
+    content: []
+patchday2ng:
+  base:
+    path: update/x64/dlcpacks/patchday2ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpchristmas2:
+  base:
+    path: update/x64/dlcpacks/mpchristmas2/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpchristmas2/dlc.rpf/common/data/ai/weaponhominglauncher.meta
+    - update/x64/dlcpacks/mpchristmas2/dlc.rpf/common/data/ai/weaponproxmine.meta
+    - update/x64/dlcpacks/mpchristmas2/dlc.rpf/common/data/ai/weaponsnowball.meta
+    pickups:
+    - update/x64/dlcpacks/mpchristmas2/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpchristmas2/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpchristmas2
+    weapons:
+    - update/update.rpf/dlc_patch/mpchristmas2/common/data/ai/weaponhominglauncher.meta
+    - update/update.rpf/dlc_patch/mpchristmas2/common/data/ai/weaponproxmine.meta
+    - update/update.rpf/dlc_patch/mpchristmas2/common/data/ai/weaponsnowball.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mpchristmas2/common/data/pickups.meta
+    content:
+    - update/update.rpf/dlc_patch/mpchristmas2/content.xml
+patchday2bng:
+  base:
+    path: update/x64/dlcpacks/patchday2bng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday3ng:
+  base:
+    path: update/x64/dlcpacks/patchday3ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/patchday3ng
+    weapons: []
+    pickups: []
+    content: []
+patchday4ng:
+  base:
+    path: update/x64/dlcpacks/patchday4ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/patchday4ng
+    weapons: []
+    pickups: []
+    content: []
+mpluxe:
+  base:
+    path: update/x64/dlcpacks/mpluxe/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpluxe/dlc.rpf/common/data/ai/weaponcombatpdw.meta
+    pickups:
+    - update/x64/dlcpacks/mpluxe/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpluxe/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpluxe
+    weapons:
+    - update/update.rpf/dlc_patch/mpluxe/common/data/ai/weaponcombatpdw.meta
+    pickups: []
+    content: []
+patchday5ng:
+  base:
+    path: update/x64/dlcpacks/patchday5ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/patchday5ng
+    weapons: []
+    pickups: []
+    content: []
+mpluxe2:
+  base:
+    path: update/x64/dlcpacks/mpluxe2/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpluxe2/dlc.rpf/common/data/ai/weaponknuckle.meta
+    - update/x64/dlcpacks/mpluxe2/dlc.rpf/common/data/ai/weaponmarksmanpistol.meta
+    pickups:
+    - update/x64/dlcpacks/mpluxe2/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpluxe2/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpluxe2
+    weapons:
+    - update/update.rpf/dlc_patch/mpluxe2/common/data/ai/weaponmarksmanpistol.meta
+    pickups: []
+    content: []
+patchday6ng:
+  base:
+    path: update/x64/dlcpacks/patchday6ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpreplay:
+  base:
+    path: update/x64/dlcpacks/mpreplay/dlc.rpf
+    weapons: []
+    pickups:
+    - update/x64/dlcpacks/mpreplay/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpreplay/dlc.rpf/content.xml
+patchday7ng:
+  base:
+    path: update/x64/dlcpacks/patchday7ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mplowrider:
+  base:
+    path: update/x64/dlcpacks/mplowrider/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mplowrider/dlc.rpf/common/data/ai/weaponmachete.meta
+    - update/x64/dlcpacks/mplowrider/dlc.rpf/common/data/ai/weaponmachinepistol.meta
+    pickups:
+    - update/x64/dlcpacks/mplowrider/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mplowrider/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mplowrider
+    weapons:
+    - update/update.rpf/dlc_patch/mplowrider/common/data/ai/weaponmachete.meta
+    - update/update.rpf/dlc_patch/mplowrider/common/data/ai/weaponmachinepistol.meta
+    pickups: []
+    content:
+    - update/update.rpf/dlc_patch/mplowrider/content.xml
+mphalloween:
+  base:
+    path: update/x64/dlcpacks/mphalloween/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mphalloween/dlc.rpf/common/data/ai/weaponflashlight.meta
+    pickups:
+    - update/x64/dlcpacks/mphalloween/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mphalloween/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mphalloween
+    weapons:
+    - update/update.rpf/dlc_patch/mphalloween/common/data/ai/weaponflashlight.meta
+    pickups: []
+    content: []
+patchday8ng:
+  base:
+    path: update/x64/dlcpacks/patchday8ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpapartment:
+  base:
+    path: update/x64/dlcpacks/mpapartment/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpapartment/dlc.rpf/common/data/ai/weaponrevolver.meta
+    - update/x64/dlcpacks/mpapartment/dlc.rpf/common/data/ai/weaponswitchblade.meta
+    pickups:
+    - update/x64/dlcpacks/mpapartment/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpapartment/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpapartment
+    weapons:
+    - update/update.rpf/dlc_patch/mpapartment/common/data/ai/weaponrevolver.meta
+    - update/update.rpf/dlc_patch/mpapartment/common/data/ai/weaponswitchblade.meta
+    pickups: []
+    content:
+    - update/update.rpf/dlc_patch/mpapartment/content.xml
+mpxmas_604490:
+  base:
+    path: update/x64/dlcpacks/mpxmas_604490/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpxmas_604490
+    weapons: []
+    pickups: []
+    content: []
+mplowrider2:
+  base:
+    path: update/x64/dlcpacks/mplowrider2/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mplowrider2/dlc.rpf/common/data/ai/weaponcompactrifle.meta
+    - update/x64/dlcpacks/mplowrider2/dlc.rpf/common/data/ai/weapondbshotgun.meta
+    pickups:
+    - update/x64/dlcpacks/mplowrider2/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mplowrider2/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mplowrider2
+    weapons:
+    - update/update.rpf/dlc_patch/mplowrider2/common/data/ai/weaponcompactrifle.meta
+    pickups: []
+    content: []
+mpjanuary2016:
+  base:
+    path: update/x64/dlcpacks/mpjanuary2016/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpjanuary2016
+    weapons: []
+    pickups: []
+    content: []
+mpvalentines2:
+  base:
+    path: update/x64/dlcpacks/mpvalentines2/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpvalentines2
+    weapons: []
+    pickups: []
+    content: []
+patchday9ng:
+  base:
+    path: update/x64/dlcpacks/patchday9ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpexecutive:
+  base:
+    path: update/x64/dlcpacks/mpexecutive/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpexecutive
+    weapons: []
+    pickups: []
+    content: []
+patchday10ng:
+  base:
+    path: update/x64/dlcpacks/patchday10ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpstunt:
+  base:
+    path: update/x64/dlcpacks/mpstunt/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpstunt
+    weapons: []
+    pickups: []
+    content: []
+patchday11ng:
+  base:
+    path: update/x64/dlcpacks/patchday11ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpimportexport:
+  base:
+    path: update/x64/dlcpacks/mpimportexport/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpimportexport
+    weapons: []
+    pickups: []
+    content: []
+mpbiker:
+  base:
+    path: update/x64/dlcpacks/mpbiker/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/ai/weaponautoshotgun.meta
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/ai/weaponbattleaxe.meta
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/ai/weaponcompactlauncher.meta
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/ai/weaponminismg.meta
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/ai/weaponpipebomb.meta
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/ai/weaponpoolcue.meta
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/ai/weaponwrench.meta
+    pickups:
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpbiker/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpbiker
+    weapons:
+    - update/update.rpf/dlc_patch/mpbiker/common/data/ai/weaponpipebomb.meta
+    pickups: []
+    content: []
+patchday12ng:
+  base:
+    path: update/x64/dlcpacks/patchday12ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday13ng:
+  base:
+    path: update/x64/dlcpacks/patchday13ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpspecialraces:
+  base:
+    path: update/x64/dlcpacks/mpspecialraces/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpspecialraces
+    weapons: []
+    pickups: []
+    content: []
+mpgunrunning:
+  base:
+    path: update/x64/dlcpacks/mpgunrunning/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpgunrunning/dlc.rpf/common/data/ai/weapons_assaultrifle_mk2.meta
+    - update/x64/dlcpacks/mpgunrunning/dlc.rpf/common/data/ai/weapons_carbinerifle_mk2.meta
+    - update/x64/dlcpacks/mpgunrunning/dlc.rpf/common/data/ai/weapons_combatmg_mk2.meta
+    - update/x64/dlcpacks/mpgunrunning/dlc.rpf/common/data/ai/weapons_heavysniper_mk2.meta
+    - update/x64/dlcpacks/mpgunrunning/dlc.rpf/common/data/ai/weapons_pistol_mk2.meta
+    - update/x64/dlcpacks/mpgunrunning/dlc.rpf/common/data/ai/weapons_smg_mk2.meta
+    pickups:
+    - update/x64/dlcpacks/mpgunrunning/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpgunrunning/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpgunrunning
+    weapons:
+    - update/update.rpf/dlc_patch/mpgunrunning/common/data/ai/weapons_heavysniper_mk2.meta
+    - update/update.rpf/dlc_patch/mpgunrunning/common/data/ai/weapons_pistol_mk2.meta
+    pickups:
+    - update/update.rpf/dlc_patch/mpgunrunning/common/data/pickups.meta
+    content: []
+mpairraces:
+  base:
+    path: update/x64/dlcpacks/mpairraces/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpairraces
+    weapons: []
+    pickups: []
+    content: []
+mpsmuggler:
+  base:
+    path: update/x64/dlcpacks/mpsmuggler/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpsmuggler
+    weapons: []
+    pickups: []
+    content: []
+mpchristmas2017:
+  base:
+    path: update/x64/dlcpacks/mpchristmas2017/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/ai/weapons_bullpuprifle_mk2.meta
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/ai/weapons_doubleaction.meta
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/ai/weapons_marksmanrifle_mk2.meta
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/ai/weapons_pumpshotgun_mk2.meta
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/ai/weapons_revolver_mk2.meta
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/ai/weapons_snspistol_mk2.meta
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/ai/weapons_specialcarbine_mk2.meta
+    pickups:
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpchristmas2017/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpchristmas2017
+    weapons:
+    - update/update.rpf/dlc_patch/mpchristmas2017/common/data/ai/weapons_doubleaction.meta
+    - update/update.rpf/dlc_patch/mpchristmas2017/common/data/ai/weapons_revolver_mk2.meta
+    pickups: []
+    content:
+    - update/update.rpf/dlc_patch/mpchristmas2017/content.xml
+mpassault:
+  base:
+    path: update/x64/dlcpacks/mpassault/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpassault
+    weapons: []
+    pickups: []
+    content: []
+mpbattle:
+  base:
+    path: update/x64/dlcpacks/mpbattle/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpbattle/dlc.rpf/common/data/ai/weaponstonehatchet.meta
+    pickups:
+    - update/x64/dlcpacks/mpbattle/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpbattle/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpbattle
+    weapons: []
+    pickups: []
+    content: []
+patchday14ng:
+  base:
+    path: update/x64/dlcpacks/patchday14ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday15ng:
+  base:
+    path: update/x64/dlcpacks/patchday15ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday16ng:
+  base:
+    path: update/x64/dlcpacks/patchday16ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday17ng:
+  base:
+    path: update/x64/dlcpacks/patchday17ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/patchday17ng
+    weapons: []
+    pickups: []
+    content: []
+patchday18ng:
+  base:
+    path: update/x64/dlcpacks/patchday18ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday19ng:
+  base:
+    path: update/x64/dlcpacks/patchday19ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday20ng:
+  base:
+    path: update/x64/dlcpacks/patchday20ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpchristmas2018:
+  base:
+    path: update/x64/dlcpacks/mpchristmas2018/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpchristmas2018/dlc.rpf/common/data/ai/weapons_spacerangers.meta
+    pickups:
+    - update/x64/dlcpacks/mpchristmas2018/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpchristmas2018/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpchristmas2018
+    weapons:
+    - update/update.rpf/dlc_patch/mpchristmas2018/common/data/ai/weapons_spacerangers.meta
+    pickups: []
+    content: []
+patchday21ng:
+  base:
+    path: update/x64/dlcpacks/patchday21ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpvinewood:
+  base:
+    path: update/x64/dlcpacks/mpvinewood/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpvinewood
+    weapons: []
+    pickups: []
+    content: []
+patchday22ng:
+  base:
+    path: update/x64/dlcpacks/patchday22ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpheist3:
+  base:
+    path: update/x64/dlcpacks/mpheist3/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/ai/weapon_ceramicpistol.meta
+    - update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/ai/weapon_hazardcan.meta
+    - update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/ai/weapon_navyrevolver.meta
+    - update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/ai/weapon_tranquilizer.meta
+    pickups:
+    - update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpheist3/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpheist3
+    weapons:
+    - update/update.rpf/dlc_patch/mpheist3/common/data/ai/weapon_navyrevolver.meta
+    pickups: []
+    content: []
+mpsum:
+  base:
+    path: update/x64/dlcpacks/mpsum/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpsum
+    weapons: []
+    pickups: []
+    content: []
+patchday23ng:
+  base:
+    path: update/x64/dlcpacks/patchday23ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/patchday23ng
+    weapons: []
+    pickups: []
+    content: []
+mpheist4:
+  base:
+    path: update/x64/dlcpacks/mpheist4/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpheist4/dlc.rpf/common/data/ai/weapon_combatshotgun.meta
+    - update/x64/dlcpacks/mpheist4/dlc.rpf/common/data/ai/weapon_gadgetpistol.meta
+    - update/x64/dlcpacks/mpheist4/dlc.rpf/common/data/ai/weapon_militaryrifle.meta
+    pickups:
+    - update/x64/dlcpacks/mpheist4/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpheist4/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpheist4
+    weapons: []
+    pickups: []
+    content: []
+patchday24ng:
+  base:
+    path: update/x64/dlcpacks/patchday24ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mptuner:
+  base:
+    path: update/x64/dlcpacks/mptuner/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mptuner
+    weapons: []
+    pickups: []
+    content: []
+patchday25ng:
+  base:
+    path: update/x64/dlcpacks/patchday25ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpsecurity:
+  base:
+    path: update/x64/dlcpacks/mpsecurity/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/ai/weapons_emplauncher.meta
+    - update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/ai/weapons_heavyrifle.meta
+    - update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/ai/weapon_fertilizercan.meta
+    - update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/ai/weapon_stungun_mp.meta
+    pickups:
+    - update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpsecurity/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpsecurity
+    weapons:
+    - update/update.rpf/dlc_patch/mpsecurity/common/data/ai/weapons_emplauncher.meta
+    - update/update.rpf/dlc_patch/mpsecurity/common/data/ai/weapon_stungun_mp.meta
+    pickups: []
+    content:
+    - update/update.rpf/dlc_patch/mpsecurity/content.xml
+patchday26ng:
+  base:
+    path: update/x64/dlcpacks/patchday26ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpg9ec:
+  base:
+    path: update/x64/dlcpacks/mpg9ec/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchdayg9ecng:
+  base:
+    path: update/x64/dlcpacks/patchdayg9ecng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpsum2:
+  base:
+    path: update/x64/dlcpacks/mpsum2/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpsum2/dlc.rpf/common/data/ai/weapon_metaldetector.meta
+    - update/x64/dlcpacks/mpsum2/dlc.rpf/common/data/ai/weapon_precisionrifle.meta
+    - update/x64/dlcpacks/mpsum2/dlc.rpf/common/data/ai/weapon_tacticalrifle.meta
+    pickups:
+    - update/x64/dlcpacks/mpsum2/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpsum2/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpsum2
+    weapons:
+    - update/update.rpf/dlc_patch/mpsum2/common/data/ai/weapon_precisionrifle.meta
+    pickups: []
+    content: []
+patchday27ng:
+  base:
+    path: update/x64/dlcpacks/patchday27ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpsum2_g9ec:
+  base:
+    path: update/x64/dlcpacks/mpsum2_g9ec/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mpsum2_g9ec
+    weapons: []
+    pickups: []
+    content: []
+patchday27g9ecng:
+  base:
+    path: update/x64/dlcpacks/patchday27g9ecng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mpchristmas3:
+  base:
+    path: update/x64/dlcpacks/mpchristmas3/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/ai/weapon_acidpackage.meta
+    - update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/ai/weapon_candycane.meta
+    - update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/ai/weapon_pistolxm3.meta
+    - update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/ai/weapon_railgunxm3.meta
+    pickups:
+    - update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mpchristmas3/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mpchristmas3
+    weapons: []
+    pickups: []
+    content: []
+mpchristmas3_g9ec:
+  base:
+    path: update/x64/dlcpacks/mpchristmas3_g9ec/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday28ng:
+  base:
+    path: update/x64/dlcpacks/patchday28ng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patchday28g9ecng:
+  base:
+    path: update/x64/dlcpacks/patchday28g9ecng/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mp2023_01:
+  base:
+    path: update/x64/dlcpacks/mp2023_01/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mp2023_01/dlc.rpf/common/data/ai/weapon_tecpistol.meta
+    pickups:
+    - update/x64/dlcpacks/mp2023_01/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mp2023_01/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mp2023_01
+    weapons: []
+    pickups: []
+    content: []
+patch2023_01:
+  base:
+    path: update/x64/dlcpacks/patch2023_01/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patch2023_01_g9ec:
+  base:
+    path: update/x64/dlcpacks/patch2023_01_g9ec/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mp2023_01_g9ec:
+  base:
+    path: update/x64/dlcpacks/mp2023_01_g9ec/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mp2023_02:
+  base:
+    path: update/x64/dlcpacks/mp2023_02/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/ai/weapon_battlerifle.meta
+    - update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/ai/weapon_hackingdevice.meta
+    - update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/ai/weapon_snowlauncher.meta
+    pickups:
+    - update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mp2023_02/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mp2023_02
+    weapons: []
+    pickups: []
+    content: []
+patch2023_02:
+  base:
+    path: update/x64/dlcpacks/patch2023_02/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mp2023_02_g9ec:
+  base:
+    path: update/x64/dlcpacks/mp2023_02_g9ec/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mp2024_01:
+  base:
+    path: update/x64/dlcpacks/mp2024_01/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mp2024_01/dlc.rpf/common/data/ai/weapon_stunrod.meta
+    pickups:
+    - update/x64/dlcpacks/mp2024_01/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mp2024_01/dlc.rpf/content.xml
+  patch:
+    path: update/update.rpf/dlc_patch/mp2024_01
+    weapons: []
+    pickups: []
+    content: []
+patch2024_01:
+  base:
+    path: update/x64/dlcpacks/patch2024_01/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+patch2024_01_g9ec:
+  base:
+    path: update/x64/dlcpacks/patch2024_01_g9ec/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mp2024_01_g9ec:
+  base:
+    path: update/x64/dlcpacks/mp2024_01_g9ec/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+mp2024_02:
+  base:
+    path: update/x64/dlcpacks/mp2024_02/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
+  patch:
+    path: update/update.rpf/dlc_patch/mp2024_02
+    weapons: []
+    pickups: []
+    content: []
+mp2024_02_g9ec:
+  base:
+    path: update/x64/dlcpacks/mp2024_02_g9ec/dlc.rpf
+    weapons:
+    - update/x64/dlcpacks/mp2024_02_g9ec/dlc.rpf/common/data/ai/weapon_strickler.meta
+    pickups:
+    - update/x64/dlcpacks/mp2024_02_g9ec/dlc.rpf/common/data/pickups.meta
+    content:
+    - update/x64/dlcpacks/mp2024_02_g9ec/dlc.rpf/content.xml
+patch2024_02:
+  base:
+    path: update/x64/dlcpacks/patch2024_02/dlc.rpf
+    weapons: []
+    pickups: []
+    content: []
