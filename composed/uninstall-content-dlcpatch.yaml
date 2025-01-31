@@ -10,7 +10,6 @@ to-delete:
 - mpgunrunning
 - mphalloween
 - mpheist3
-- mpheist4
 - mplowrider2
 - mpluxe
 - mpluxe2
@@ -24,6 +23,7 @@ to-patch:
 - mpchristmas2
 - mpchristmas2017
 - mpheist
+- mpheist4
 - mphipster
 - mpindependence
 - mplowrider

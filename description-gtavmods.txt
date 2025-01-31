@@ -1,5 +1,5 @@
 <b>weapon-merger</b>
-Script to merge weapons data files in GTA V for modding. - Version 1.1 | <a href="https://github.com/votrinhan88/weapon-merger">GitHub</a>
+Script to merge weapons data files in GTA V for modding. - Version 1.2 | <a href="https://github.com/votrinhan88/weapon-merger">GitHub</a>
 
 <b>What this script does</b>
 <b>TLDR:</b> Merge all vanilla `weapon*.meta` and `pickups.meta` to a single file. <b>Merged files included.</b>
@@ -28,6 +28,7 @@ ____2. (Optional, Recommended): With installed conda, create environment from te
 ____3. (Optional, Recommended): Activate environment: `conda activate weapon-merger`
 ____4. Extract `weapons-pickups-meta-backup-1.70.7z` to current folder (same level as this file).
 ____5. Open `./main.ipynb` and run everything in one go. Merged files will be exported to `./outputs/merged`
+3. Patch for LCPP: Copy `./composed/patch-lcpp/update/update.rpf/dlc_patch/mpheist4/content.xml` to `GTA V/mods/update/update.rpf/dlc_patch/mpheist4`
 
 <b>Uninstall</b>
 1. Extract `weapons-pickups-meta-uninstall-1.70.7z` to current folder (same level as this file).
