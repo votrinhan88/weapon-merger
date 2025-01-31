@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+   <Item>
+     <filename>dlc_mpChristmas2:/common/data/overlayinfo.xml</filename>
+     <fileType>OVERLAY_INFO_FILE</fileType>
+     <overlay value="false" />
+     <disabled value="true" />
+     <persistent value="false" />
+   </Item>
+ <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_amb@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+ <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_anim@patches.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_cover@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_mp_.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_veh@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_weapons@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/ai/weaponProxMine.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/ai/weaponSnowball.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/ai/weaponHomingLauncher.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/christmas2ContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/mp_f_freemode_01_female_xmas2.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/mp_m_freemode_01_male_xmas2.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>    
+	<Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2:/common/patch/data/ai/weapons.meta</filename>
+      <fileType>WEAPONINFO_FILE_PATCH</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/audio/config/dlcxmas2_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/audio/config/dlcxmas2_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/audio/config/dlcxmas2_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/audio/sfx/dlc_xmas2</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/levels/gta5/props/v_christmas_tree.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/levels/gta5/props/v_christmas_tree.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+	  <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/levels/gta5/vehicles/xmas2vehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/levels/mpchristmas2/vehiclemods/ratloader2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/levels/mpchristmas2/vehiclemods/jester2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/levels/mpchristmas2/vehiclemods/massacro2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_MPChristmas2:/common/data/effects/peds/mpchristmas2_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+	<Item>
+      <filename>dlc_MPChristmas2:/%PLATFORM%/models/cdimages/mpchristmas2_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/models/cdimages/mpxmas2.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/models/cdimages/mpxmas2_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/common/data/effects/ptfxassetinfo.meta</filename>
+      <fileType>PTFXASSETINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2CRC:/common/data/effects/explosionfx.dat</filename>
+      <fileType>EXPLOSIONFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+	<Item>
+	  <changeSetName>MPCHRISTMAS2_AUTOGEN</changeSetName>
+	  <filesToDisable />
+	  <filesToEnable>
+        <Item>dlc_mpChristmas2CRC:/common/data/handling.meta</Item>
+        <Item>dlc_mpChristmas2CRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlc_mpChristmas2CRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlc_mpChristmas2CRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/carcols.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/carvariations.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/dlctext.meta</Item>	
+        <Item>dlc_mpChristmas2:/common/data/explosion.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/mp_f_freemode_01_female_xmas2.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/mp_m_freemode_01_male_xmas2.meta</Item>		
+        <Item>dlc_mpChristmas2:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlc_mpChristmas2:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlc_mpChristmas2:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlc_mpChristmas2CRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlc_mpChristmas2:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlc_mpChristmas2:/common/data/overlayinfo.xml</Item>
+        <Item>dlc_mpChristmas2:/common/data/pedpersonality.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/shop_tattoo.meta</Item>		
+        <Item>dlc_mpChristmas2:/common/data/shop_vehicle.meta</Item>
+        <Item>dlc_mpChristmas2:/common/data/shop_weapon.meta</Item>
+        <Item>dlc_mpChristmas2CRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlc_mpChristmas2:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlc_mpChristmas2:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</Item>
+		<Item>dlc_mpChristmas2:/%PLATFORM%/audio/config/dlcxmas2_GAME.DAT</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/audio/config/dlcxmas2_SOUNDS.DAT</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/audio/config/dlcxmas2_AMP.DAT</Item>
+		<Item>dlc_mpChristmas2:/%PLATFORM%/audio/sfx/dlc_xmas2</Item>
+		<Item>dlc_mpChristmas2:/%PLATFORM%/levels/gta5/props/v_christmas_tree.rpf</Item>
+		<Item>dlc_mpChristmas2:/%PLATFORM%/levels/gta5/props/v_christmas_tree.ityp</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/levels/gta5/vehicles/xmas2vehicles.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/levels/mpchristmas2/vehiclemods/ratloader2_mods.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/levels/mpchristmas2/vehiclemods/jester2_mods.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/levels/mpchristmas2/vehiclemods/massacro2_mods.rpf</Item>	
+		<Item>dlc_mpChristmas2:/%PLATFORM%/models/cdimages/mpchristmas2_ped_mp_overlay_txds.rpf</Item>		
+		<Item>dlc_mpChristmas2:/common/data/effects/peds/mpchristmas2_overlays.xml</Item>		
+        <Item>dlc_mpChristmas2:/%PLATFORM%/models/cdimages/mpxmas2.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/models/cdimages/mpxmas2_p.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlc_mpChristmas2:/common/data/effects/ptfxassetinfo.meta</Item>
+		<Item>dlc_mpChristmas2CRC:/common/data/effects/explosionfx.dat</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+	  </filesToEnable>
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	</Item>
+	<Item>
+	  <changeSetName>MPCHRISTMAS2_UNLOCKS_AUTOGEN</changeSetName>
+	  <filesToDisable />
+	  <filesToEnable>
+        <Item>dlc_mpChristmas2:/common/data/christmas2ContentUnlocks.meta</Item>	    
+	  </filesToEnable>
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	</Item>
+	<Item>
+      <changeSetName>MPCHRISTMAS2_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_amb@.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_anim@patches.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_cover@.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_mp_.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_veh@.rpf</Item>
+        <Item>dlc_mpChristmas2:/%PLATFORM%/anim/ingame/clip_weapons@.rpf</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

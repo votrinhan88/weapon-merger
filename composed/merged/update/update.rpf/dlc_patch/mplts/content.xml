@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+     <Item>
+      <filename>dlcMPLTS:/common/data/ui/CacheAndCarry.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/ui/Docktease.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/ui/ElitasTravel.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/ui/LegendaryMotorsport.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/ui/SuperAutos.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/data/cdimages/Docktease.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/data/cdimages/ElitasTravel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/data/cdimages/SuperAutos.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/data/cdimages/Warstock.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPLTS:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/levels/gta5/props/lts_mplts_props.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/levels/gta5/props/mplts_props.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/ai/weaponHeavyShotgun.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/ai/weaponMarksmanRifle.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/LTSContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/models/cdimages/mpLTS.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/models/cdimages/mpLTS_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>      
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/mp_f_freemode_01_mpLTS_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/mp_m_freemode_01_mpLTS_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/levels/gta5/vehicles/ltsvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/audio/dlcmpLTS_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/audio/sfx/dlc_mpLTS</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/audio/dlcmpLTS_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/audio/dlcmpLTS_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/models/cdimages/mpLTS_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTSCRC:/common/data/effects/peds/mpLTS_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPLTS:/%PLATFORM%/audio/dlcmpLTS_amp.dat</filename>
+	  <fileType>AUDIO_SYNTHDATA</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPLTS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPLTS:/common/data/interiorProxies.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/handling.meta</Item>
+        <Item>dlcMPLTS:/common/data/overlayinfo.xml</Item>
+        <Item>dlcMPLTSCRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlcMPLTS:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlcMPLTSCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/carvariations.meta</Item>
+        <Item>dlcMPLTS:/common/data/dlctext.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcMPLTS:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlcMPLTSCRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlcMPLTS:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlcMPLTSCRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/models/cdimages/mpLTS.rpf</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/models/cdimages/mpLTS_p.rpf</Item>
+        <Item>dlcMPLTSCRC:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlcMPLTS:/common/data/effects/peds/first_person.meta</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlcMPLTSCRC:/common/data/mp_f_freemode_01_mpLTS_shop.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/mp_m_freemode_01_mpLTS_shop.meta</Item>
+        <Item>dlcMPLTSCRC:/common/data/shop_tattoo.meta</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/levels/gta5/vehicles/ltsvehicles.rpf</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/audio/dlcmpLTS_GAME.DAT</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/audio/dlcmpLTS_MIX.DAT</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/audio/dlcmpLTS_SOUNDS.DAT</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/audio/dlcmpLTS_amp.dat</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/models/cdimages/mpLTS_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlcMPLTSCRC:/common/data/effects/peds/mpLTS_overlays.xml</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/audio/sfx/dlc_mpLTS</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/levels/gta5/props/mplts_props.rpf</Item>
+        <Item>dlcMPLTS:/%PLATFORM%/levels/gta5/props/lts_mplts_props.ityp</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLTS_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPLTSCRC:/common/data/LTSContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLTS_VERSIONED</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+	<Item>
+      <changeSetName>MPLTS_LegendaryMotorsport</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLTS_SuperAutos</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLTS_Docktease</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLTS_CacheAndCarry</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLTS_ElitasTravel</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLTS_ANIM_OVERLAYS</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPLTS_PEDFIXES</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

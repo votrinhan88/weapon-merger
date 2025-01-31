@@ -1,0 +1,272 @@
+AMMO_PISTOL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_RIFLE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_MG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SHOTGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_STUNGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SNIPER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SNIPER_REMOTE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_FIREEXTINGUISHER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_PETROLCAN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_MINIGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_GRENADELAUNCHER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_GRENADELAUNCHER_SMOKE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_RPG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_STINGER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_GRENADE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_BALL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_STICKYBOMB:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SMOKEGRENADE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_BZGAS:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_FLARE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_MOLOTOV:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_TANK:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SPACE_ROCKET:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_PLANE_ROCKET:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_PLAYER_LASER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_ENEMY_LASER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_BIRD_CRAP:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_MG_ARMORPIERCING:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_MG_FMJ:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_MG_INCENDIARY:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_MG_TRACER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_PISTOL_FMJ:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_PISTOL_HOLLOWPOINT:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_PISTOL_INCENDIARY:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_PISTOL_TRACER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_RIFLE_ARMORPIERCING:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_RIFLE_FMJ:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_RIFLE_INCENDIARY:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_RIFLE_TRACER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SMG_FMJ:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SMG_HOLLOWPOINT:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SMG_INCENDIARY:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SMG_TRACER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SNIPER_ARMORPIERCING:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SNIPER_EXPLOSIVE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SNIPER_FMJ:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SNIPER_INCENDIARY:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SNIPER_TRACER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SHOTGUN_ARMORPIERCING:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SHOTGUN_EXPLOSIVE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SHOTGUN_HOLLOWPOINT:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_SHOTGUN_INCENDIARY:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/ai/weapons.meta
+AMMO_FIREWORK:
+  dlc: mpindependence
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpindependence/common/data/ai/weaponfirework.meta
+AMMO_RAILGUN:
+  dlc: spupgrade
+  installment: patch
+  path: update/update.rpf/dlc_patch/spupgrade/common/data/ai/weaponrailgun.meta
+AMMO_FLAREGUN:
+  dlc: mpheist
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpheist/common/data/ai/weaponflaregun.meta
+AMMO_HOMINGLAUNCHER:
+  dlc: mpchristmas2
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpchristmas2/common/data/ai/weaponhominglauncher.meta
+AMMO_PROXMINE:
+  dlc: mpchristmas2
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpchristmas2/common/data/ai/weaponproxmine.meta
+AMMO_SNOWBALL:
+  dlc: mpchristmas2
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpchristmas2/common/data/ai/weaponsnowball.meta
+AMMO_PIPEBOMB:
+  dlc: mpbiker
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpbiker/common/data/ai/weaponpipebomb.meta
+AMMO_RAYPISTOL:
+  dlc: mpchristmas2018
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpchristmas2018/common/data/ai/weapons_spacerangers.meta
+AMMO_HAZARDCAN:
+  dlc: mpheist3
+  installment: base
+  path: update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/ai/weapon_hazardcan.meta
+AMMO_TRANQUILIZER:
+  dlc: mpheist3
+  installment: base
+  path: update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/ai/weapon_tranquilizer.meta
+AMMO_EMPLAUNCHER:
+  dlc: mpsecurity
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpsecurity/common/data/ai/weapons_emplauncher.meta
+AMMO_FERTILIZERCAN:
+  dlc: mpsecurity
+  installment: base
+  path: update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/ai/weapon_fertilizercan.meta
+AMMO_ACIDPACKAGE:
+  dlc: mpchristmas3
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/ai/weapon_acidpackage.meta
+AMMO_RAILGUNXM3:
+  dlc: mpchristmas3
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/ai/weapon_railgunxm3.meta
+AMMO_SNOWLAUNCHER:
+  dlc: mp2023_02
+  installment: base
+  path: update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/ai/weapon_snowlauncher.meta

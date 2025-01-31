@@ -1,0 +1,700 @@
+PICKUP_WEAPON_BULLPUPSHOTGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_ASSAULTSMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_ASSAULTSMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PISTOL50:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_PISTOL50:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_BULLET_MP:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_MISSILE_MP:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_GRENADELAUNCHER_MP:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_ASSAULTRIFLE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_CARBINERIFLE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_ADVANCEDRIFLE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_COMBATMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_SNIPERRIFLE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_HEAVYSNIPER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MICROSMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_SMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_ARMOUR_STANDARD:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_RPG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MINIGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_HEALTH_STANDARD:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PUMPSHOTGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_SAWNOFFSHOTGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_ASSAULTSHOTGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_GRENADE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MOLOTOV:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_SMOKEGRENADE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_STICKYBOMB:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PISTOL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_COMBATPISTOL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_APPISTOL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_GRENADELAUNCHER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_MONEY_VARIABLE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_GANG_ATTACK_MONEY:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_STUNGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PETROLCAN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_KNIFE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_NIGHTSTICK:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_HAMMER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_BAT:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_GolfClub:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_CROWBAR:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_CUSTOM_SCRIPT:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_CAMERA:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_PACKAGE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_UNFIXED:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_PACKAGE_LARGE_RADIUS:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_FM_CONTENT_MISSION_ENTITY_SMALL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_UNFIXED_INCAR:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_UNFIXED_INAIRVEHICLE_WITH_PASSENGERS:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_UNFIXED_INAIRVEHICLE_WITH_PASSENGERS_UPRIGHT:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_WITH_PASSENGERS:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_FIXED_INCAR_WITH_PASSENGERS:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_FIXED_INCAR_SMALL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_SMALL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_UNFIXED_LOW_GLOW:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_MONEY_CASE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_MONEY_WALLET:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_MONEY_PURSE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_MONEY_DEP_BAG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_MONEY_MED_BAG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_MONEY_PAPER_BAG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_MONEY_SECURITY_CASE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_COMBATPISTOL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_APPISTOL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_PISTOL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_GRENADE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_MOLOTOV:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_SMOKEGRENADE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_STICKYBOMB:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_HEALTH_STANDARD:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_HEALTH_STANDARD_LOW_GLOW:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_ARMOUR_STANDARD:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_MICROSMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_SMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_WEAPON_SAWNOFF:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_CUSTOM_SCRIPT:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_CUSTOM_SCRIPT_NO_ROTATE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_CUSTOM_SCRIPT_LOW_GLOW:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_VEHICLE_MONEY_VARIABLE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_SUBMARINE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_HEALTH_SNACK:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_PARACHUTE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_PISTOL:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_SMG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_RIFLE:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_MG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_SHOTGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_SNIPER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_GRENADELAUNCHER:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_RPG:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_AMMO_MINIGUN:
+  dlc: base
+  installment: base
+  path: update/update.rpf/common/data/pickups.meta
+PICKUP_WEAPON_BOTTLE:
+  dlc: mpbeach
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpbeach/common/data/pickups.meta
+PICKUP_WEAPON_SNSPISTOL:
+  dlc: mpbeach
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpbeach/common/data/pickups.meta
+PICKUP_WEAPON_HEAVYPISTOL:
+  dlc: mpbusiness
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpbusiness/common/data/pickups.meta
+PICKUP_WEAPON_SPECIALCARBINE:
+  dlc: mpbusiness
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpbusiness/common/data/pickups.meta
+PICKUP_WEAPON_GUSENBERG:
+  dlc: mpvalentines
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpvalentines/common/data/pickups.meta
+PICKUP_WEAPON_BULLPUPRIFLE:
+  dlc: mpbusiness2
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpbusiness2/common/data/pickups.meta
+PICKUP_WEAPON_DAGGER:
+  dlc: mphipster
+  installment: patch
+  path: update/update.rpf/dlc_patch/mphipster/common/data/pickups.meta
+PICKUP_WEAPON_VINTAGEPISTOL:
+  dlc: mphipster
+  installment: patch
+  path: update/update.rpf/dlc_patch/mphipster/common/data/pickups.meta
+PICKUP_WEAPON_FIREWORK:
+  dlc: mpindependence
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpindependence/common/data/pickups.meta
+PICKUP_WEAPON_MUSKET:
+  dlc: mpindependence
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpindependence/common/data/pickups.meta
+PICKUP_AMMO_FIREWORK:
+  dlc: mpindependence
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpindependence/common/data/pickups.meta
+PICKUP_AMMO_FIREWORK_MP:
+  dlc: mpindependence
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpindependence/common/data/pickups.meta
+PICKUP_PORTABLE_DLC_VEHICLE_PACKAGE:
+  dlc: mppilot
+  installment: patch
+  path: update/update.rpf/dlc_patch/mppilot/common/data/pickups.meta
+PICKUP_WEAPON_HATCHET:
+  dlc: spupgrade
+  installment: patch
+  path: update/update.rpf/dlc_patch/spupgrade/common/data/pickups.meta
+PICKUP_WEAPON_RAILGUN:
+  dlc: spupgrade
+  installment: patch
+  path: update/update.rpf/dlc_patch/spupgrade/common/data/pickups.meta
+PICKUP_WEAPON_HEAVYSHOTGUN:
+  dlc: mplts
+  installment: patch
+  path: update/update.rpf/dlc_patch/mplts/common/data/pickups.meta
+PICKUP_WEAPON_MARKSMANRIFLE:
+  dlc: mplts
+  installment: patch
+  path: update/update.rpf/dlc_patch/mplts/common/data/pickups.meta
+PICKUP_WEAPON_FLAREGUN:
+  dlc: mpheist
+  installment: base
+  path: update/x64/dlcpacks/mpheist/dlc.rpf/common/data/pickups.meta
+PICKUP_AMMO_FLAREGUN:
+  dlc: mpheist
+  installment: base
+  path: update/x64/dlcpacks/mpheist/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PROXMINE:
+  dlc: mpchristmas2
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpchristmas2/common/data/pickups.meta
+PICKUP_WEAPON_HOMINGLAUNCHER:
+  dlc: mpchristmas2
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpchristmas2/common/data/pickups.meta
+PICKUP_AMMO_HOMINGLAUNCHER:
+  dlc: mpchristmas2
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpchristmas2/common/data/pickups.meta
+PICKUP_WEAPON_SNOWBALL:
+  dlc: mpchristmas2
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpchristmas2/common/data/pickups.meta
+PICKUP_WEAPON_COMBATPDW:
+  dlc: mpluxe
+  installment: base
+  path: update/x64/dlcpacks/mpluxe/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_KNUCKLE:
+  dlc: mpluxe2
+  installment: base
+  path: update/x64/dlcpacks/mpluxe2/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MARKSMANPISTOL:
+  dlc: mpluxe2
+  installment: base
+  path: update/x64/dlcpacks/mpluxe2/dlc.rpf/common/data/pickups.meta
+PICKUP_PORTABLE_CRATE_FIXED_INCAR:
+  dlc: mpreplay
+  installment: base
+  path: update/x64/dlcpacks/mpreplay/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MACHETE:
+  dlc: mplowrider
+  installment: base
+  path: update/x64/dlcpacks/mplowrider/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MACHINEPISTOL:
+  dlc: mplowrider
+  installment: base
+  path: update/x64/dlcpacks/mplowrider/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_FLASHLIGHT:
+  dlc: mphalloween
+  installment: base
+  path: update/x64/dlcpacks/mphalloween/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_REVOLVER:
+  dlc: mpapartment
+  installment: base
+  path: update/x64/dlcpacks/mpapartment/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_SWITCHBLADE:
+  dlc: mpapartment
+  installment: base
+  path: update/x64/dlcpacks/mpapartment/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_COMPACTRIFLE:
+  dlc: mplowrider2
+  installment: base
+  path: update/x64/dlcpacks/mplowrider2/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_DBSHOTGUN:
+  dlc: mplowrider2
+  installment: base
+  path: update/x64/dlcpacks/mplowrider2/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_AUTOSHOTGUN:
+  dlc: mpbiker
+  installment: base
+  path: update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_BATTLEAXE:
+  dlc: mpbiker
+  installment: base
+  path: update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_COMPACTLAUNCHER:
+  dlc: mpbiker
+  installment: base
+  path: update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MINISMG:
+  dlc: mpbiker
+  installment: base
+  path: update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PIPEBOMB:
+  dlc: mpbiker
+  installment: base
+  path: update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_POOLCUE:
+  dlc: mpbiker
+  installment: base
+  path: update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_WRENCH:
+  dlc: mpbiker
+  installment: base
+  path: update/x64/dlcpacks/mpbiker/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_ASSAULTRIFLE_MK2:
+  dlc: mpgunrunning
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpgunrunning/common/data/pickups.meta
+PICKUP_WEAPON_CARBINERIFLE_MK2:
+  dlc: mpgunrunning
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpgunrunning/common/data/pickups.meta
+PICKUP_WEAPON_COMBATMG_MK2:
+  dlc: mpgunrunning
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpgunrunning/common/data/pickups.meta
+PICKUP_WEAPON_HEAVYSNIPER_MK2:
+  dlc: mpgunrunning
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpgunrunning/common/data/pickups.meta
+PICKUP_WEAPON_PISTOL_MK2:
+  dlc: mpgunrunning
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpgunrunning/common/data/pickups.meta
+PICKUP_WEAPON_SMG_MK2:
+  dlc: mpgunrunning
+  installment: patch
+  path: update/update.rpf/dlc_patch/mpgunrunning/common/data/pickups.meta
+PICKUP_WEAPON_BULLPUPRIFLE_MK2:
+  dlc: mpchristmas2017
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_DOUBLEACTION:
+  dlc: mpchristmas2017
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MARKSMANRIFLE_MK2:
+  dlc: mpchristmas2017
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PUMPSHOTGUN_MK2:
+  dlc: mpchristmas2017
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_REVOLVER_MK2:
+  dlc: mpchristmas2017
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_SNSPISTOL_MK2:
+  dlc: mpchristmas2017
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_SPECIALCARBINE_MK2:
+  dlc: mpchristmas2017
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2017/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_STONE_HATCHET:
+  dlc: mpbattle
+  installment: base
+  path: update/x64/dlcpacks/mpbattle/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_RAYPISTOL:
+  dlc: mpchristmas2018
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2018/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_RAYCARBINE:
+  dlc: mpchristmas2018
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2018/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_RAYMINIGUN:
+  dlc: mpchristmas2018
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas2018/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_CERAMICPISTOL:
+  dlc: mpheist3
+  installment: base
+  path: update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_HAZARDCAN:
+  dlc: mpheist3
+  installment: base
+  path: update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_NAVYREVOLVER:
+  dlc: mpheist3
+  installment: base
+  path: update/x64/dlcpacks/mpheist3/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_COMBATSHOTGUN:
+  dlc: mpheist4
+  installment: base
+  path: update/x64/dlcpacks/mpheist4/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_GADGETPISTOL:
+  dlc: mpheist4
+  installment: base
+  path: update/x64/dlcpacks/mpheist4/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_MILITARYRIFLE:
+  dlc: mpheist4
+  installment: base
+  path: update/x64/dlcpacks/mpheist4/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_EMPLAUNCHER:
+  dlc: mpsecurity
+  installment: base
+  path: update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/pickups.meta
+PICKUP_AMMO_EMPLAUNCHER:
+  dlc: mpsecurity
+  installment: base
+  path: update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_HEAVYRIFLE:
+  dlc: mpsecurity
+  installment: base
+  path: update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PETROLCAN_SMALL_RADIUS:
+  dlc: mpsecurity
+  installment: base
+  path: update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_FERTILIZERCAN:
+  dlc: mpsecurity
+  installment: base
+  path: update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_STUNGUN_MP:
+  dlc: mpsecurity
+  installment: base
+  path: update/x64/dlcpacks/mpsecurity/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_METALDETECTOR:
+  dlc: mpsum2
+  installment: base
+  path: update/x64/dlcpacks/mpsum2/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_TACTICALRIFLE:
+  dlc: mpsum2
+  installment: base
+  path: update/x64/dlcpacks/mpsum2/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PRECISIONRIFLE:
+  dlc: mpsum2
+  installment: base
+  path: update/x64/dlcpacks/mpsum2/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_PISTOLXM3:
+  dlc: mpchristmas3
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_CANDYCANE:
+  dlc: mpchristmas3
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_RAILGUNXM3:
+  dlc: mpchristmas3
+  installment: base
+  path: update/x64/dlcpacks/mpchristmas3/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_TECPISTOL:
+  dlc: mp2023_01
+  installment: base
+  path: update/x64/dlcpacks/mp2023_01/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_BATTLERIFLE:
+  dlc: mp2023_02
+  installment: base
+  path: update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_SNOWLAUNCHER:
+  dlc: mp2023_02
+  installment: base
+  path: update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/pickups.meta
+PICKUP_AMMO_SNOWLAUNCHER:
+  dlc: mp2023_02
+  installment: base
+  path: update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_HACKINGDEVICE:
+  dlc: mp2023_02
+  installment: base
+  path: update/x64/dlcpacks/mp2023_02/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_STUNROD:
+  dlc: mp2024_01
+  installment: base
+  path: update/x64/dlcpacks/mp2024_01/dlc.rpf/common/data/pickups.meta
+PICKUP_WEAPON_STRICKLER:
+  dlc: mp2024_02_g9ec
+  installment: base
+  path: update/x64/dlcpacks/mp2024_02_g9ec/dlc.rpf/common/data/pickups.meta

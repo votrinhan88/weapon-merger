@@ -1,0 +1,1168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/anim/cutscene/cuts_HUMANE.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/anim/cutscene/cuts_NARCOTIC.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/anim/cutscene/cuts_PRISON.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ai/weaponRevolver.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ai/weaponSwitchblade.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ai/weaponTurretLimo.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ai/weaponAirDefenceGun.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/ApartmentContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/dlcscript.meta</filename>
+      <fileType>DLC_SCRIPT_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/mp_f_freemode_01_female_apt01.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/mp_m_freemode_01_male_apt01.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/audio/sfx/dlc_apartment</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/data/script_RELEASE.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/bt1_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/sunset.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/sunset_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_05c.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_05e.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_07b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_09b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_09c.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_12b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_roads.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_roadsb.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/cityhills_02_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/cityhills_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_superyacht.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/superyacht_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_01b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_07.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_stilts_a.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_stilts_b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_yacht.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>    
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/apa_mp_apa_prop_doors.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/mp_apa_prop_doors.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht_door.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht_door.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht_text.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht_text.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht_jacuzzi.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/apa_mp_apa_yacht_flags.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/mp_apa_yacht_flags.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht_lightrig.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht_lightrig.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/apa_mp_apa_yacht_buoys.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/mp_apa_yacht_buoys.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht_jacuzzi.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_crashed_usaf.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_crashed_usaf.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/v_inttest.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/high/int_mp_h_props.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/high/apa_int_mp_h_props.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/high/int_mp_doors.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/high/apa_int_mp_doors.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/lev_des/lev_des_apa.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/lev_des/apa_lev_des_apa.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/skinned/props_skinned.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/skinned/apa_props_skinned.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/models/cdimages/mpapartment.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/models/cdimages/mpapt01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/models/cdimages/mpapt01_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/models/cdimages/mpapartment_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/common/data/peds.meta</filename>
+      <fileType>PED_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>		
+    <Item>
+      <filename>dlc_mpApartmentCRC:/common/data/effects/explosionfx.dat</filename>
+      <fileType>EXPLOSIONFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>		
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/vehicles/apartmentvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/verlierer2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/nightshade_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/schafter3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/schafter4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/schafter5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/schafter6_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/mamba_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpApartment:/%PLATFORM%/levels/gta5/LODLights.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>   
+    <Item>
+      <filename>dlc_mpApartment:/common/data/effects/ptfxassetinfo.meta</filename>
+      <fileType>PTFXASSETINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>APA_GTA5_CITYE_SUNSET</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_citye/sunset/sunset_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/sunset.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/bt1_05.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/ss1_11.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/ss1_02.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/ss1_05.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/ss1_occl.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/sunset_metadata.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/sunset.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/bt1_05.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_11.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_02.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_05.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_occl.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>APA_GTA5_HILLS_CITYHILLS_02</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_04.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_05c.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_05e.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_07b.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_08.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_09b.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_09c.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_10.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_11.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_12b.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/cityhills_02/ch2_roads.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_roadsb.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/cityhills_02_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/cityhills_02.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/v_inttest.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_01.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_02.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_03.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_04.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_05.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_06.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_07.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_h_08.rpf</Item>
+            
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_stilts_a.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_stilts_b.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/interiors/int_mp_yacht.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_04.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_05c.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_05e.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_07b.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_08.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_09b.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_09c.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_10.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_11.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_12b.rpf</Item>
+			<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_roads.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_roadsb.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_occl.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/cityhills_02_metadata.rpf</Item>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/cityhills_02.rpf</Item>
+			<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_superyacht.rpf</Item>
+			<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/_hills/cityhills_02/superyacht_metadata.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPAPARTMENT_GTA5_LODLIGHTS</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/lodlights.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/LODLights.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item> 
+    <Item>
+      <changeSetName>MPAPARTMENT_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpApartment:/common/data/interiorProxies.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/handling.meta</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/vehicles/apartmentvehicles.rpf</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/carcols.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/carvariations.meta</Item>
+		<Item>dlc_mpApartmentCRC:/common/data/explosion.meta</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/verlierer2_mods.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/nightshade_mods.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/schafter3_mods.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/schafter4_mods.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/schafter5_mods.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/schafter6_mods.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/mpapartment/vehiclemods/mamba_mods.rpf</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/ai/weaponTurretLimo.meta</Item>
+		<Item>dlc_mpApartmentCRC:/common/data/ai/weaponAirDefenceGun.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlc_mpApartment:/common/data/effects/scriptfx.dat</Item>
+		<Item>dlc_mpApartmentCRC:/common/data/effects/explosionfx.dat</Item>
+        <Item>dlc_mpApartment:/common/data/effects/peds/first_person.meta</Item>
+        <Item>dlc_mpApartment:/common/data/dlctext.meta</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/models/cdimages/mpapt01.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/models/cdimages/mpapt01_p.rpf</Item>
+        <Item>dlc_mpApartment:/common/data/peds.meta</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/models/cdimages/mpapartment.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/models/cdimages/mpapartment_p.rpf</Item>
+        <Item>dlc_mpApartment:/common/data/mp_f_freemode_01_female_apt01.meta</Item>
+        <Item>dlc_mpApartment:/common/data/mp_m_freemode_01_male_apt01.meta</Item>
+        <Item>dlc_mpApartment:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlc_mpApartment:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlc_mpApartment:/common/data/overlayinfo.xml</Item>
+        <Item>dlc_mpApartment:/common/data/pedalternatevariations.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlc_mpApartment:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlc_mpApartmentCRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/anim/cutscene/cuts_HUMANE.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/anim/cutscene/cuts_NARCOTIC.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/anim/cutscene/cuts_PRISON.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/mp_apa_prop_doors.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/apa_mp_apa_prop_doors.ityp</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/mp_apa_yacht_buoys.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/apa_mp_apa_yacht_buoys.ityp</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/mp_apa_yacht_flags.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/apa_mp_apa_yacht_flags.ityp</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/high/int_mp_h_props.rpf</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/high/apa_int_mp_h_props.ityp</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/high/int_mp_doors.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/high/apa_int_mp_doors.ityp</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/lev_des/lev_des_apa.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/lev_des/apa_lev_des_apa.ityp</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/skinned/props_skinned.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/skinned/apa_props_skinned.ityp</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_crashed_usaf.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_crashed_usaf.ityp</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht.rpf</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht.ityp</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht_door.rpf</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht_door.ityp</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht_jacuzzi.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht_jacuzzi.ityp</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht_lightrig.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht_lightrig.ityp</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/mp_apa_yacht_text.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/levels/gta5/props/yacht/apa_mp_apa_yacht_text.ityp</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_GAME.DAT</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_SOUNDS.DAT</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_MIX.DAT</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_amp.DAT</Item>
+		<Item>dlc_mpApartment:/%PLATFORM%/audio/config/dlcApartment_SPEECH.DAT</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/audio/occlusion.rpf</Item>
+        <Item>dlc_mpApartment:/%PLATFORM%/audio/sfx/dlc_apartment</Item>
+        <Item>dlc_mpApartment:/common/data/effects/ptfxassetinfo.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MP_APARTMENT_SCRIPT</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpApartment:/%PLATFORM%/data/script_RELEASE.rpf</Item>
+        <Item>dlc_mpApartment:/common/data/dlcscript.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPAPARTMENT_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpApartmentCRC:/common/data/ApartmentContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

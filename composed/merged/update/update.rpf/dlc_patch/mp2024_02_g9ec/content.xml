@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+    <dataFiles>
+		<Item>
+		 <filename>dlc_mp2024_02_G9EC:/%PLATFORM%/levels/mp2024_02_G9EC/vehiclemods/banshee3hsw_mods.rpf</filename>
+		 <fileType>RPF_FILE</fileType>
+		 <overlay value="false" />
+		 <disabled value="true" />
+		 <persistent value="true" />
+		</Item>
+		<Item>
+		 <filename>dlc_mp2024_02_G9EC:/%PLATFORM%/levels/mp2024_02_G9EC/vehiclemods/firebolthsw_mods.rpf</filename>
+		 <fileType>RPF_FILE</fileType>
+		 <overlay value="false" />
+		 <disabled value="true" />
+		 <persistent value="true" />
+		</Item>
+		<Item>
+		  <filename>dlc_mp2024_02_G9EC:/common/data/weaponArchetypes.meta</filename>
+		  <fileType>WEAPON_METADATA_FILE</fileType>
+		  <overlay value="false" />
+		  <disabled value="true" />
+		  <persistent value="false" />
+		</Item>
+		<Item>
+		 <filename>dlc_mp2024_02_G9EC:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+		 <fileType>RPF_FILE</fileType>
+		 <overlay value="false" />
+		 <disabled value="true" />
+		 <persistent value="true" />
+		</Item>
+		<Item>
+		  <filename>dlc_mp2024_02_G9EC:/common/data/shop_weapon.meta</filename>
+		  <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+		  <overlay value="false" />
+		  <disabled value="true" />
+		  <persistent value="false" />
+		</Item>
+		<Item>
+		  <filename>dlc_mp2024_02_G9ECCRC:/common/data/ai/loadouts.meta</filename>
+		  <fileType>LOADOUTS_FILE</fileType>
+		  <overlay value="false" />
+		  <disabled value="true" />
+		  <persistent value="false" />
+		</Item>
+		<Item>
+		  <filename>dlc_mp2024_02_G9ECCRC:/common/data/pedpersonality.meta</filename>
+		  <fileType>PED_PERSONALITY_FILE</fileType>
+		  <overlay value="false" />
+		  <disabled value="true" />
+		  <persistent value="false" />
+		</Item>
+		<Item>
+		  <filename>dlc_mp2024_02_G9ECCRC:/common/data/pickups.meta</filename>
+		  <fileType>DLC_WEAPON_PICKUPS</fileType>
+		  <overlay value="false" />
+		  <disabled value="true" />
+		  <persistent value="false" />
+		</Item>
+		<Item>
+		  <filename>dlc_mp2024_02_G9ECCRC:/common/data/ai/weapon_strickler.meta</filename>
+		  <fileType>WEAPONINFO_FILE</fileType>
+		  <overlay value="false" />
+		  <disabled value="true" />
+		  <persistent value="false" />
+		</Item>	
+		<Item>
+		  <filename>dlc_mp2024_02_G9ECCRC:/common/data/ai/weaponanimations.meta</filename>
+		  <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+		  <overlay value="false" />
+		  <disabled value="true" />
+		  <persistent value="false" />
+		</Item>
+		<Item>
+		  <filename>dlc_mp2024_02_G9ECCRC:/common/data/ai/weaponcomponents.meta</filename>
+		  <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+		  <overlay value="false" />
+		  <disabled value="true" />
+		  <persistent value="false" />
+		</Item>
+    </dataFiles>
+    <contentChangeSets>
+        <Item>
+          <changeSetName>MP2024_02_G9EC_AUTOGEN</changeSetName>
+          <mapChangeSetData />
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+			<Item>dlc_mp2024_02_G9EC:/%PLATFORM%/levels/mp2024_02_G9EC/vehiclemods/banshee3hsw_mods.rpf</Item> 
+			<Item>dlc_mp2024_02_G9EC:/%PLATFORM%/levels/mp2024_02_G9EC/vehiclemods/firebolthsw_mods.rpf</Item>  
+			<Item>dlc_mp2024_02_G9EC:/common/data/weaponArchetypes.meta</Item>
+			<Item>dlc_mp2024_02_G9EC:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+			<Item>dlc_mp2024_02_G9EC:/common/data/shop_weapon.meta</Item>
+			<Item>dlc_mp2024_02_G9ECCRC:/common/data/ai/loadouts.meta</Item>
+			<Item>dlc_mp2024_02_G9ECCRC:/common/data/pedpersonality.meta</Item>
+			<Item>dlc_mp2024_02_G9ECCRC:/common/data/ai/weaponanimations.meta</Item>	
+			<Item>dlc_mp2024_02_G9ECCRC:/common/data/ai/weaponcomponents.meta</Item>
+          </filesToEnable>
+         <txdToLoad />
+         <txdToUnload />
+         <residentResources />
+         <unregisterResources />
+         <requiresLoadingScreen value="false" />
+        </Item>
+        <Item>
+          <changeSetName>MP2024_02_G9EC_UNLOCKS_AUTOGEN</changeSetName>
+          <mapChangeSetData />
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+            
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+          <requiresLoadingScreen value="false" />
+        </Item>
+        <Item>
+          <changeSetName>MP2024_02_G9EC_MAP_UPDATE</changeSetName>
+          <mapChangeSetData>
+            <Item>
+              <associatedMap>MO_JIM_L11</associatedMap>
+              <filesToInvalidate />
+              <filesToDisable />
+              <filesToEnable>
+           
+              </filesToEnable>
+              </Item>
+            </mapChangeSetData>
+            <txdToLoad />
+            <txdToUnload />
+            <residentResources />
+            <unregisterResources />
+            <requiresLoadingScreen value="true" />
+            <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+            <useCacheLoader value="true" />
+        </Item>
+    </contentChangeSets>
+ <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
