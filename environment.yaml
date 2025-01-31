@@ -1,0 +1,10 @@
+name: weapon-merger
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.12
+  - pip:
+      - numpy==2.2.1
+      - xmltodict==0.14.2
+      - pyyaml==6.0.2
