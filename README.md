@@ -1,5 +1,5 @@
 # weapon-merger
-Script to merge weapons data files in GTA V for modding | Version 1.0 | [gta5-mods.com](https://www.gta5-mods.com/tools/weapon-merger)
+Script to merge weapons data files in GTA V for modding | Version 1.1 | [gta5-mods.com](https://www.gta5-mods.com/tools/weapon-merger)
 
 ### What this script does:
 **TLDR:** Merge all vanilla `weapon*.meta` and `pickups.meta` to a single file. **Merged files included.**
@@ -30,3 +30,11 @@ Script to merge weapons data files in GTA V for modding | Version 1.0 | [gta5-mo
     3. (Optional, Recommended): Activate environment: `conda activate weapon-merger`
     4. Extract `weapons-pickups-meta-backup-1.70.7z` to current folder (same level as this file).
     5. Open `./main.ipynb` and run everything in one go. Merged files will be exported to `./outputs/merged`
+
+### Uninstall
+1. Extract `weapons-pickups-meta-uninstall-1.70.7z` to current folder (same level as this file).
+2. Open the `./composed/uninstall-content-dlcpatch.yaml` - This is the instruction to handle `content.xml` in each `dlc_patch`
+3. Copy everything in `./uninstall/update/update.rpf` to  `GTA V/mods/update/update.rpf`
+    + These should have reverted the DLCs under `to-patch` in `./composed/uninstall-content-dlcpatch.yaml`
+4. For the remaining DLCs, i.e. under `to-delete` in `./composed/uninstall-content-dlcpatch.yaml`, you can safely delete the `content.xml` file manually.
+    + Originally these files do not exist in the vanilla version
