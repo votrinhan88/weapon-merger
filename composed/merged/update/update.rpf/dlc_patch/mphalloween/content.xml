@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/ai/weaponFlashlight.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/HalloweenContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/levels/mphalloween/vehiclemods/lurcher_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/levels/mphalloween/vehiclemods/btype2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/common/data/mp_f_freemode_01_halloween_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/common/data/mp_m_freemode_01_halloween_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloweenCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/models/cdimages/mpHalloween.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/levels/gta5/vehicles/hwvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/audio/dlchalloween_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/audio/dlchalloween_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>    		
+    <Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/audio/dlchalloween_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPHalloweenCRC:/common/data/effects/peds/mpHalloween_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/models/cdimages/mphalloween_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHalloween:/%PLATFORM%/audio/sfx/dlc_halloween</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPHALLOWEEN_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHalloweenCRC:/common/data/handling.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/anim/clip_sets/clip_sets.xml</Item>
+		<Item>dlcMPHalloweenCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/carcols.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/carvariations.meta</Item>
+        <Item>dlcMPHalloween:/common/data/dlctext.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcMPHalloween:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlcMPHalloween:/common/data/mp_f_freemode_01_halloween_shop.meta</Item>
+        <Item>dlcMPHalloween:/common/data/mp_m_freemode_01_halloween_shop.meta</Item>
+        <Item>dlcMPHalloween:/common/data/pedalternatevariations.meta</Item>
+        <Item>dlcMPHalloween:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlcMPHalloweenCRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlcMPHalloweenCRC:/common/data/shop_vehicle.meta</Item>
+		<Item>dlcMPHalloweenCRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlcMPHalloween:/%PLATFORM%/levels/mphalloween/vehiclemods/lurcher_mods.rpf</Item>
+        <Item>dlcMPHalloween:/%PLATFORM%/levels/mphalloween/vehiclemods/btype2_mods.rpf</Item>
+		<Item>dlcMPHalloweenCRC:/common/data/weaponArchetypes.meta</Item>
+ 		<Item>dlcMPHalloween:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+		<Item>dlcMPHalloween:/%PLATFORM%/levels/gta5/vehicles/hwvehicles.rpf</Item>
+        <Item>dlcMPHalloween:/%PLATFORM%/models/cdimages/mpHalloween.rpf</Item>
+        <Item>dlcMPHalloween:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+		<Item>dlcMPHalloween:/%PLATFORM%/audio/dlchalloween_GAME.DAT</Item>
+        <Item>dlcMPHalloween:/%PLATFORM%/audio/dlchalloween_SOUNDS.DAT</Item>		
+        <Item>dlcMPHalloween:/%PLATFORM%/audio/dlchalloween_amp.DAT</Item>
+		<Item>dlcMPHalloweenCRC:/common/data/effects/peds/mpHalloween_overlays.xml</Item>
+		<Item>dlcMPHalloween:/%PLATFORM%/models/cdimages/mphalloween_ped_mp_overlay_txds.rpf</Item>
+		<Item>dlcMPHalloween:/%PLATFORM%/audio/sfx/dlc_halloween</Item>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPHALLOWEEN_UNLOCKS_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHalloweenCRC:/common/data/HalloweenContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

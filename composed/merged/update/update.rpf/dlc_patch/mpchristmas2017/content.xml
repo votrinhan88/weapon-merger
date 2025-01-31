@@ -1,0 +1,1381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+	<Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_akula.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_avenger.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_barrage.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_chernobog.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_deluxo.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_khanjali.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_stromberg.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_thruster.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_volatol.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_xmas17.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weapons_bullpuprifle_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weapons_doubleaction.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weapons_marksmanrifle_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weapons_pumpshotgun_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weapons_revolver_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weapons_snspistol_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/ai/weapons_specialcarbine_mk2.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpChristmas2017CRC:/common/data/effects/peds/mpChristmas2017_overlays.xml</filename>
+	  <fileType>PED_OVERLAY_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/effects/explosionfx.dat</filename>
+      <fileType>EXPLOSIONFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item> 
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/contentunlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/common/data/peds.meta</filename>
+      <fileType>PED_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/weaponarchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/audio/sfx/dlc_Christmas2017</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+ 	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+    <filename>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_placement.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_base.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_Facility.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_Facility2.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_silo.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_Lab.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_sub.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Base.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Base.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>  	
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Lab.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Lab.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Auto_Salvage.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Auto_Salvage.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+  	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Facility.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Facility.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Facility_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Facility_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_int_lev_des.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_int_lev_des.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_SAM.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_SAM.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Cover.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Cover.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_SiloHatch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_SiloHatch.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_OspHatch.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_OspHatch.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Mines.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Mines.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Accs.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Accs.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Accs_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Accs_01.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Trail.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Trail.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Sub.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Sub.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Barge.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Barge.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Para.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Para.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Shamal.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Shamal.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/Prop_x17DLC_Rep_Sign_01a.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_Prop_x17DLC_Rep_Sign_01a.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/Prop_x17DLC_Monitor_Wall_01a.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_Prop_x17DLC_Monitor_Wall_01a.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/gta5/vehicles/mpChristmas2017.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/chernobog_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/kamacho_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/hermes_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/hustler_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/deluxo_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/yosemite_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/savestra_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/viseris_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/vehcamo_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/akula_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/volatol_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/avenger_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/neon_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/gt500_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/sc1_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/comet5_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/raiden_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/comet4_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/autarch_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/sentinel3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/riata_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>		
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/riot2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/thruster_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/z190_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/barrage_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/khanjali_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/streiter_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/revolter_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/pariah_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>			
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/gta5/navmeshes.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/peds/mpchristmas2017.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/peds/mpchristmas2017_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_female.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_female_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/mp_f_freemode_01_christmas2017_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_male.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_male_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/mp_m_freemode_01_christmas2017_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/mpChristmas2017_cutspeds.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/mpChristmas2017_cutspeds_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/mpChristmas2017_ped_mp_overlay_txds.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017CRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/levels/gta5/additions/mpchristmasadditions.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/common/data/effects/ptfxassetinfo.meta</filename>
+      <fileType>PTFXASSETINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/cutscene/cuts_iaa.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/cutscene/cuts_iaaj.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/cutscene/cuts_sil.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/cutscene/cuts_silj.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/cutscene/cuts_sub.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/cutscene/cuts_subj.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpChristmas2017:/%PLATFORM%/anim/expressions.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpChristmas2017:/common/data/srllist.meta</filename>
+      <fileType>STREAMING_REQUEST_LISTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+ </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPCHRISTMAS2017_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+	  <filesToEnable>
+		<Item>dlc_mpchristmas2017:/common/data/srllist.meta</Item>
+        <Item>dlc_mpchristmas2017CRC:/common/data/handling.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/loadouts.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehiclelayouts.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_akula.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_avenger.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_barrage.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_chernobog.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_deluxo.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_khanjali.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_stromberg.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_thruster.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_volatol.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/vehicleweapons_xmas17.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/weaponanimations.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/ai/weaponcomponents.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/anim/clip_sets/clip_sets.xml</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/effects/peds/mpchristmas2017_overlays.xml</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/effects/explosionfx.dat</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/levels/gta5/vehicles.meta</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/carcols.meta</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/carvariations.meta</Item>
+		<Item>dlc_mpchristmas2017:/common/data/dlctext.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/explosion.meta</Item>
+		<Item>dlc_mpchristmas2017:/common/data/interiorProxies.meta</Item>
+		<Item>dlc_mpChristmas2017:/common/data/mpStatsSetup.xml</Item>
+		<Item>dlc_mpChristmas2017:/common/data/mpStatsUISetup.xml</Item>
+		<Item>dlc_mpchristmas2017:/common/data/overlayinfo.xml</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/pedpersonality.meta</Item>
+		<Item>dlc_mpChristmas2017:/common/data/peds.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/shop_tattoo.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/shop_vehicle.meta</Item>
+		<Item>dlc_mpChristmas2017CRC:/common/data/shop_weapon.meta</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/weaponarchetypes.meta</Item>
+		<Item>dlc_mpChristmas2017:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlc_mpChristmas2017:/%PLATFORM%/audio/sfx/dlc_Christmas2017</Item>	
+        <Item>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_amp.dat</Item>	
+	 	<Item>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_game.dat</Item>
+        <Item>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_mix.dat</Item>
+        <Item>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_sounds.dat</Item>
+		<Item>dlc_mpChristmas2017:/%PLATFORM%/audio/dlcChristmas2017_speech.dat</Item>
+		<Item>dlc_mpChristmas2017:/%PLATFORM%/audio/occlusion.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Base.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Base.ityp</Item>		
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Lab.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Lab.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Auto_Salvage.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Auto_Salvage.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Facility.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Facility.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Facility_01.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Facility_01.ityp</Item>
+   		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_int_lev_des.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_int_lev_des.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_SAM.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_SAM.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Cover.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Cover.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_SiloHatch.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_SiloHatch.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_OspHatch.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_OspHatch.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Mines.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Mines.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Accs.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Accs.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Accs_01.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Accs_01.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Trail.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Trail.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Sub.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Sub.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Barge.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Barge.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Para.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Para.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/x17DLC_Props_Shamal.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_x17DLC_Props_Shamal.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/Prop_x17DLC_Rep_Sign_01a.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_Prop_x17DLC_Rep_Sign_01a.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/Prop_x17DLC_Monitor_Wall_01a.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/props/xm_Prop_x17DLC_Monitor_Wall_01a.ityp</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/vehicles/mpChristmas2017.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/vehcamo_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/kamacho_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/hermes_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/hustler_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/deluxo_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/yosemite_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/savestra_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/viseris_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/chernobog_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/akula_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/volatol_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/avenger_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/neon_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/gt500_mods.rpf</Item>	
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/sc1_mods.rpf</Item>	
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/comet5_mods.rpf</Item>	
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/raiden_mods.rpf</Item>			
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/comet4_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/autarch_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/sentinel3_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/riata_mods.rpf</Item>			
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/riot2_mods.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/thruster_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/z190_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/barrage_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/khanjali_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/streiter_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/revolter_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/mpchristmas2017/vehiclemods/pariah_mods.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/peds/mpchristmas2017.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/peds/mpchristmas2017_p.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_female.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_female_p.rpf</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/mp_f_freemode_01_christmas2017_shop.meta</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_male.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_male_p.rpf</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/mp_m_freemode_01_christmas2017_shop.meta</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/mpChristmas2017_cutspeds.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/mpChristmas2017_cutspeds_p.rpf</Item>
+		<Item>dlc_mpchristmas2017:/common/data/effects/peds/first_person_alternates.meta</Item>
+        <Item>dlc_mpchristmas2017:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+		<Item>dlc_mpchristmas2017CRC:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/mpchristmas2017_ped_mp_overlay_txds.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlc_mpchristmas2017:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+        <Item>dlc_mpchristmas2017:/common/data/effects/ptfxassetinfo.meta</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/anim/cutscene/cuts_iaa.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/anim/cutscene/cuts_iaaj.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/anim/cutscene/cuts_sil.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/anim/cutscene/cuts_silj.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/anim/cutscene/cuts_sub.rpf</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/anim/cutscene/cuts_subj.rpf</Item>
+        <Item>dlc_mpchristmas2017:/common/data/effects/scriptfx.dat</Item>
+		<Item>dlc_mpchristmas2017:/%PLATFORM%/anim/expressions.rpf</Item>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>	
+    <Item>
+      <changeSetName>MPCHRISTMAS2017_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+		<Item>dlc_mpchristmas2017CRC:/common/data/contentunlocks.meta</Item>
+      </filesToEnable>
+	  <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>	
+	<Item>
+      <changeSetName>MPCHRISTMAS2017_INTERIOR_ADDITIONS</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToEnable>
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_01.rpf</Item>
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_02.rpf</Item>
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_base.rpf</Item>
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_Facility.rpf</Item>
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_Facility2.rpf</Item>
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_placement.rpf</Item>
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_silo.rpf</Item>	
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_Lab.rpf</Item>	
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/interiors/x17DLC_int_sub.rpf</Item>				
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPCHRISTMAS2017_MAP_UPDATE</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+			<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/additions/mpchristmasadditions.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+        <Item>
+          <changeSetName>MPCHRISTMAS2017_MAP_UPDATE_NAVMESH_ONLY</changeSetName>
+          <mapChangeSetData>
+            <Item>
+              <associatedMap>MO_JIM_L11</associatedMap>
+              <filesToInvalidate />
+              <filesToDisable />
+              <filesToEnable>
+              		<Item>dlc_mpchristmas2017:/%PLATFORM%/levels/gta5/navmeshes.rpf</Item>
+              </filesToEnable>
+              <txdToLoad />
+              <txdToUnload />
+              <residentResources />
+              <unregisterResources />
+            </Item>
+          </mapChangeSetData>
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable />
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+          <requiresLoadingScreen value="true" />
+          <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+          <useCacheLoader value="true" />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

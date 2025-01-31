@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/ai/weaponBullpupRifle.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/business2ContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/mp_f_freemode_01_business2_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/mp_m_freemode_01_business2_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2CRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/audio/dlcbusi2_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/audio/dlcbusi2_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/audio/sfx/dlc_busi2</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/interiors/int_mp_apt_h_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/interiors/mpbusiness_int_placement.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/props/mp_residential.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/props/v_business2.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/props/v_business2.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/vehicles/mpB2Vehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/mpbusiness2/vehiclemods/thrust_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/mpbusiness2/vehiclemods/huntley_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/mpbusiness2/vehiclemods/massacro_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/mpbusiness2/vehiclemods/zentorno_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/models/cdimages/mpbusiness2.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/ui/CacheAndCarry.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/ui/Docktease.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/ui/ElitasTravel.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/ui/LegendaryMotorsport.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/common/data/ui/SuperAutos.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/Docktease.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/ElitasTravel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/SuperAutos.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/Warstock.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/navmeshes.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <persistent value="true" />
+      <disabled value="true" />
+      <overlay value="true" />		
+	</Item>		
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPBUSINESS2_MAP_CHANGE</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlc_mpBusiness2:/common/data/interiorProxies.meta</Item>
+            <Item>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/interiors/mpBusiness_int_placement.rpf</Item>
+            <Item>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/interiors/int_mp_apt_h_01.rpf</Item>
+            <Item>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/props/mp_residential.rpf</Item>
+			      <Item>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/navmeshes.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPBUSINESS2_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpBusiness2CRC:/common/data/handling.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlc_mpBusiness2:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/carcols.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/carvariations.meta</Item>
+        <Item>dlc_mpBusiness2:/common/data/dlctext.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/mp_f_freemode_01_business2_shop.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/mp_m_freemode_01_business2_shop.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlc_mpBusiness2:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlc_mpBusiness2:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlc_mpBusiness2CRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/audio/dlcbusi2_GAME.DAT</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/audio/dlcbusi2_SOUNDS.DAT</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/audio/sfx/dlc_busi2</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/props/v_business2.rpf</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/props/v_business2.ityp</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/levels/gta5/vehicles/mpb2vehicles.rpf</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/levels/mpbusiness2/vehiclemods/huntley_mods.rpf</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/levels/mpbusiness2/vehiclemods/massacro_mods.rpf</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/levels/mpbusiness2/vehiclemods/zentorno_mods.rpf</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/levels/mpbusiness2/vehiclemods/thrust_mods.rpf</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/models/cdimages/mpbusiness2.rpf</Item>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlc_mpBusiness2:/common/data/overlayinfo.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPBUSINESS2_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpBusiness2CRC:/common/data/business2ContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness2_Docktease</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/docktease.rpf</Item>
+        <Item>dlc_mpBusiness2:/common/data/ui/Docktease.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness2_CacheAndCarry</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/warstock.rpf</Item>
+        <Item>dlc_mpBusiness2:/common/data/ui/CacheAndCarry.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness2_SuperAutos</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/superautos.rpf</Item>
+        <Item>dlc_mpBusiness2:/common/data/ui/SuperAutos.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness2_LegendaryMotorsport</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/legendarymotsport.rpf</Item>
+        <Item>dlc_mpBusiness2:/common/data/ui/LegendaryMotorsport.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBusiness2_ElitasTravel</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpBusiness2:/%PLATFORM%/data/cdimages/elitastravel.rpf</Item>
+        <Item>dlc_mpBusiness2:/common/data/ui/ElitasTravel.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+	<Item>
+      <changeSetName>MPBUSINESS2_PEDFIXES</changeSetName>
+      <associatedMap />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>	
+    <Item>
+      <changeSetName>MPBUSINESS2_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles>
+  </patchFiles>
+</CDataFileMgr__ContentsOfDataFileXml>

@@ -1,0 +1,537 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlcMPHipster:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipsterCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipsterCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipsterCRC:/common/data/ai/weaponDagger.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipsterCRC:/common/data/ai/weaponVintagePistol.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipsterCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/ui/CacheAndCarry.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/ui/Docktease.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/ui/ElitasTravel.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/ui/LegendaryMotorsport.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/ui/SuperAutos.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipsterCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/hipsterContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/mp_f_freemode_01_hipster_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/mp_m_freemode_01_hipster_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipsterCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPHipster:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipsterCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item> 
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/audio/dlchipster_GAME.DAT</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/audio/dlchipster_SOUNDS.DAT</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPHipster:/%PLATFORM%/audio/sfx/dlc_hipster</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/data/cdimages/Docktease.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/data/cdimages/ElitasTravel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/data/cdimages/SuperAutos.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/data/cdimages/Warstock.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/levels/gta5/vehicles/mpHipsterVehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/dubsta3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/pigalle_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/rhapsody_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/warrener_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/blade_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/glendale_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/panto_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/models/cdimages/mphipster.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/models/cdimages/mphipster_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/models/cdimages/mphipster_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHipster:/common/data/effects/peds/mpHipster_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHipster:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPHIPSTER_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+		<Item>dlcMPHipster:/common/data/effects/peds/first_person.meta</Item>
+        <Item>dlcMPHipsterCRC:/common/data/handling.meta</Item>
+        <Item>dlcMPHipsterCRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlcMPHipster:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlcMPHipster:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlcMPHipsterCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlcMPHipster:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlcMPHipsterCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlcMPHipster:/common/data/carcols.meta</Item>
+        <Item>dlcMPHipster:/common/data/carvariations.meta</Item>
+        <Item>dlcMPHipster:/common/data/dlctext.meta</Item>
+        <Item>dlcMPHipster:/common/data/mp_f_freemode_01_hipster_shop.meta</Item>
+        <Item>dlcMPHipster:/common/data/mp_m_freemode_01_hipster_shop.meta</Item>
+        <Item>dlcMPHipster:/common/data/pedalternatevariations.meta</Item>
+        <Item>dlcMPHipsterCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcMPHipster:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlcMPHipster:/common/data/overlayinfo.xml</Item>
+        <Item>dlcMPHipster:/common/data/pedpersonality.meta</Item>
+        <Item>dlcMPHipster:/common/data/shop_tattoo.meta</Item>
+        <Item>dlcMPHipster:/common/data/shop_vehicle.meta</Item>
+        <Item>dlcMPHipster:/common/data/shop_weapon.meta</Item>
+        <Item>dlcMPHipsterCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlcMPHipster:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlcMPHipster:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/audio/dlchipster_GAME.DAT</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/audio/dlchipster_SOUNDS.DAT</Item>
+		<Item>dlcMPHipster:/%PLATFORM%/audio/sfx/dlc_hipster</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/levels/gta5/vehicles/mphipstervehicles.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/dubsta3_mods.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/rhapsody_mods.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/warrener_mods.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/blade_mods.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/glendale_mods.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/panto_mods.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/levels/mphipster/vehiclemods/pigalle_mods.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/models/cdimages/mphipster.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/models/cdimages/mphipster_p.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/models/cdimages/mphipster_ped_mp_overlay_txds.rpf</Item>
+		<Item>dlcMPHipster:/common/data/effects/peds/mpHipster_overlays.xml</Item>
+		<Item>dlcMPHipster:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlcMPHipster:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPHIPSTER_UNLOCKS_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHipster:/common/data/hipsterContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpHipster_LegendaryMotorsport</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHipster:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</Item>
+        <Item>dlcMPHipster:/common/data/ui/LegendaryMotorsport.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpHipster_SuperAutos</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHipster:/%PLATFORM%/data/cdimages/SuperAutos.rpf</Item>
+        <Item>dlcMPHipster:/common/data/ui/SuperAutos.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpHipster_Docktease</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHipster:/%PLATFORM%/data/cdimages/docktease.rpf</Item>
+        <Item>dlcMPHipster:/common/data/ui/Docktease.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpHipster_CacheAndCarry</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHipster:/%PLATFORM%/data/cdimages/warstock.rpf</Item>
+        <Item>dlcMPHipster:/common/data/ui/CacheAndCarry.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpHipster_ElitasTravel</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHipster:/%PLATFORM%/data/cdimages/elitastravel.rpf</Item>
+        <Item>dlcMPHipster:/common/data/ui/ElitasTravel.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPHIPSTER_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

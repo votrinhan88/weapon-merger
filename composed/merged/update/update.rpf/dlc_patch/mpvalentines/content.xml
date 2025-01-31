@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+	<Item>
+      <filename>dlcMPValentines:/common/data/ui/CacheAndCarry.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/ui/Docktease.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/ui/ElitasTravel.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/ui/LegendaryMotorsport.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/ui/SuperAutos.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPValentines:/%PLATFORM%/data/cdimages/Docktease.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/data/cdimages/ElitasTravel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/data/cdimages/SuperAutos.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/data/cdimages/Warstock.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/levels/gta5/vehicles/mpvalentinesvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/ai/weaponGusenberg.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/effects/peds/mpValentines_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/mp_f_freemode_01_valentines_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/mp_m_freemode_01_valentines_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>   
+	<Item>
+      <filename>dlcMPValentinesCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPValentinesCRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/valentineContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentinesCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/common/data/overlayInfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/models/cdimages/mpvalentines.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/models/cdimages/mpvalentines_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPValentines:/%PLATFORM%/models/cdimages/mpValentines_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPValentines:/%PLATFORM%/audio/sfx/dlc_valentines</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPValentines:/%PLATFORM%/audio/config/dlcvalentines_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPValentines:/%PLATFORM%/audio/config/dlcvalentines_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>    		
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPVALENTINES_AUTOGEN</changeSetName>
+      <associatedMap />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPValentinesCRC:/common/data/handling.meta</Item>
+		<Item>dlcMPValentinesCRC:/common/data/ai/vehiclelayouts.meta</Item>
+		<Item>dlcMPValentinesCRC:/common/data/levels/gta5/vehicles.meta</Item>
+		<Item>dlcMPValentinesCRC:/common/data/carvariations.meta</Item>
+		<Item>dlcMPValentines:/%PLATFORM%/levels/gta5/vehicles/mpvalentinesvehicles.rpf</Item>
+        <Item>dlcMPValentinesCRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlcMPValentinesCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlcMPValentines:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlcMPValentines:/common/data/effects/peds/mpValentines_overlays.xml</Item>
+        <Item>dlcMPValentines:/common/data/dlctext.meta</Item>
+        <Item>dlcMPValentinesCRC:/common/data/mp_f_freemode_01_valentines_shop.meta</Item>
+        <Item>dlcMPValentinesCRC:/common/data/mp_m_freemode_01_valentines_shop.meta</Item>
+		<Item>dlcMPValentinesCRC:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlcMPValentines:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlcMPValentinesCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcMPValentines:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlcMPValentinesCRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlcMPValentinesCRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlcMPValentinesCRC:/common/data/shop_weapon.meta</Item>
+		<Item>dlcMPValentinesCRC:/common/data/shop_tattoo.meta</Item>
+        <Item>dlcMPValentinesCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlcMPValentines:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlcMPValentinesCRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlcMPValentines:/common/data/overlayInfo.xml</Item>
+        <Item>dlcMPValentines:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlcMPValentines:/%PLATFORM%/models/cdimages/mpvalentines.rpf</Item>
+        <Item>dlcMPValentines:/%PLATFORM%/models/cdimages/mpvalentines_p.rpf</Item>
+        <Item>dlcMPValentines:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+		<Item>dlcMPValentines:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+		<Item>dlcMPValentines:/%PLATFORM%/models/cdimages/mpValentines_ped_mp_overlay_txds.rpf</Item>
+		<Item>dlcMPValentines:/%PLATFORM%/audio/config/dlcvalentines_game.dat</Item>
+		<Item>dlcMPValentines:/%PLATFORM%/audio/config/dlcvalentines_sounds.dat</Item>		
+		<Item>dlcMPValentines:/%PLATFORM%/audio/sfx/dlc_valentines</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPVALENTINES_UNLOCKS_AUTOGEN</changeSetName>
+      <associatedMap />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPValentinesCRC:/common/data/valentineContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+	<Item>
+      <changeSetName>MPValentines_Docktease</changeSetName>
+      <associatedMap />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPValentines:/%PLATFORM%/data/cdimages/docktease.rpf</Item>
+        <Item>dlcMPValentines:/common/data/ui/Docktease.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPValentines_CacheAndCarry</changeSetName>
+      <associatedMap />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPValentines:/%PLATFORM%/data/cdimages/warstock.rpf</Item>
+        <Item>dlcMPValentines:/common/data/ui/CacheAndCarry.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPValentines_SuperAutos</changeSetName>
+      <associatedMap />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPValentines:/%PLATFORM%/data/cdimages/superautos.rpf</Item>
+        <Item>dlcMPValentines:/common/data/ui/SuperAutos.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPValentines_LegendaryMotorsport</changeSetName>
+      <associatedMap />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPValentines:/%PLATFORM%/data/cdimages/legendarymotsport.rpf</Item>
+        <Item>dlcMPValentines:/common/data/ui/LegendaryMotorsport.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPValentines_ElitasTravel</changeSetName>
+      <associatedMap />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPValentines:/%PLATFORM%/data/cdimages/elitastravel.rpf</Item>
+        <Item>dlcMPValentines:/common/data/ui/ElitasTravel.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles>
+  </patchFiles>
+</CDataFileMgr__ContentsOfDataFileXml>

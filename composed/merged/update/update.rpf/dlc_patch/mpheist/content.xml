@@ -1,0 +1,2976 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlcMPHeist:/common/data/gtxd.meta</filename>
+      <fileType>GTXD_PARENTING_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/srllist.meta</filename>
+      <fileType>STREAMING_REQUEST_LISTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/ai/scenarios.meta</filename>
+      <fileType>SCENARIO_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/ai/ConditionalAnims.meta</filename>
+      <fileType>CONDITIONAL_ANIMS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/props/hei_lev_des_mp_dlc.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/props/hei_MP_Residential_Heist.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/props/hei_V_Heist1.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/vehiclelayouts_insurgent.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/vehiclelayouts_valkyrie.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponFlareGun.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponTurretInsurgent.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponTurretTechnical.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponTurretValkyrie.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponVehicleSavage.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponGarbageBag.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ai/weaponHandCuffs.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/anim/clip_sets/clip_sets_insurgent.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/anim/clip_sets/clip_sets_valkyrie.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/anim/networkdefs.meta</filename>
+      <fileType>MOVE_NETWORK_DEFS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/effects/peds/mpHeist_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/ui/heist_mp.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/heistContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/interiorProxies.meta</filename>
+      <fileType>INTERIOR_PROXY_ORDER_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/player_two_trevor_heist_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/ig_nervousron_heist.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/cs_nervousron_heist.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/mp_f_freemode_01_heist_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/mp_m_freemode_01_heist_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_mpheist_carrier.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/mpheist_yacht.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_12.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_19.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_20.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_21.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_22.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_23.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_carrier_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_carrier.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_carrmp.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_carrmp_lod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_tcmods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_tcmods_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/fwy_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/downtown.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/downtown_01_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_blimp.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_07.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_13.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_14.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_24.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_rd.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hollywood.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hollywood_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_07.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/indust_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/indust_01_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/id2_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/id2_14.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/id2_lod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/id2_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <loadCompletely value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/indust_02_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/indust_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_sh2.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/port_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_12.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_23.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_00b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/scentral_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/sunset_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/sunset.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/bt1_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/airport_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/airport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/ap1_01_a.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/ap1_01_c.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/ap1_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/ap1_lod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/beverly_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/beverly.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	 <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_09.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_13.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_20.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_22.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_40.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	  <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_43.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_lod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_rd.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/koreatown_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/koreatown.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_rd.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/santamon.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/santamon_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_13.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_14.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_15.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_16.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_18.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_22.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_24.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/venice_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/venice.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/vb_19.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/vb_34.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/vb_44.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/vb_rv.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_yacht.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_yacht_lod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/yacht.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/yacht_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_06/country_06_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_06/country_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_06/cs6_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_Heist_INT.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_Prison.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_narcotic.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_pacific.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_humane.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_Tutorial.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_CUTSCENE</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/expressions.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/anim/networkdefs.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/audio/sfx/dlc_mpheist</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/audio/occlusion.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_apart_high_new.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_apart_high2_new.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_garage_high_new.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_heist_police.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_generic_bank.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/props/lev_des_mp_dlc.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/props/MP_Residential_Heist.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/props/V_Heist1.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/vehicles/mpheistvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/wheels2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/trevor_outfits.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_componentpeds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_componentpeds_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_cutspeds.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_cutspeds_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_streamedpeds.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_streamedpeds_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/peds.meta</filename>
+      <fileType>PED_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/gburrito2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/guardian_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/enduro_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/kuruma_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/navmeshes.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/LODLights.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/data/cdimages/heist_mp.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/textures/script_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/cityhills_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_06e.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_07.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_lod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/cityhills_01_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_07b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_09b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_09c.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/cityhills_02_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/cityhills_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/cityhills_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_12.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_lod.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+	  <loadCompletely value="true" />
+	  <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/cityhills_03_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/country_01.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/country_01_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+	<Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_11.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_11b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_12.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_14b.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_lod2.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_roadsa.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_instance_placement.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/country_02_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/cs2_05.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/cs2_08.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/cs2_29.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/country_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/cs2_instance_placement.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/country_03.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/country_03_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/cs3_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/country_04_metadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/country_04.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_02.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_06.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_10.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/cs3_07.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/cs3_occl.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+      <loadCompletely value="true" />
+      <contents>CONTENTS_DLC_MAP_DATA</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/heist_ornate_bank.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/scentral.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeist:/common/data/effects/peds/peddamage.xml</filename>
+      <fileType>PED_DAMAGE_APPEND_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPHeistCRC:/common/data/effects/explosionfx.dat</filename>
+      <fileType>EXPLOSIONFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPHEIST_BUSINESS2_MAP_UPDATE</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYE_DOWNTOWN_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>dt1_19_interior_v_policehub_milo_.interior</Item>
+			<Item>platform:/levels/gta5/_citye/downtown_01/dt1_02.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_03.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_08.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_11.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/downtown_01/dt1_12.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_19.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_20.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_21.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_22.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_23.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/dt1_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/fwy_02.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/downtown.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/downtown_01/downtown_01_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_carrier.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_carrier_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_carrmp.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_carrmp_lod.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_02.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_03.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_08.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_11.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_12.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_19.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_20.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_21.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_22.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_23.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_occl.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/fwy_02.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_tcmods.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/dt1_tcmods_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/downtown.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/downtown_01/downtown_01_metadata.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYE_HOLLYWOOD_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>hw1_blimp_interior_v_garagel_milo_.interior</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hw1_02.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hw1_06.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hw1_07.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hw1_08.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hw1_13.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hw1_14.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hw1_24.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hw1_rd.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/hollywood_01/hw1_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hollywood.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/hollywood_01/hollywood_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_apart_high_new.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_apart_high2_new.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_garage_high_new.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/heist_ornate_bank.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_02.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_blimp.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_06.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_07.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_08.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_13.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_14.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_24.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_rd.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hw1_occl.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hollywood.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/hollywood_01/hollywood_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYE_INDUST_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+			<Item>platform:/levels/gta5/_citye/indust_01/id1_06.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/indust_01/id1_07.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/indust_01/id1_occl.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/indust_01/indust_01.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/indust_01/indust_01_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_06.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_07.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/id1_occl.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/indust_01.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_01/indust_01_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYE_INDUST_02</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_citye/indust_02/id2_06.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/indust_02/id2_14.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/indust_02/id2_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/indust_02/id2_lod.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/indust_02/indust_02.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/indust_02/indust_02_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/id2_06.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/id2_14.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/id2_occl.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/id2_lod.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/indust_02_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/indust_02/indust_02.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYE_PORT_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_citye/port_01/po1_sh2.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/port_01/po1_01.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/port_01/po1_03.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/port_01/po1_06.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/port_01/po1_10.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/port_01/po1_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/port_01/port_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_sh2.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_01.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_03.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_06.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_10.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/po1_occl.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/port_01/port_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYE_SCENTRAL_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_00b.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_10.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_11.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_12.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/sc1_23.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/scentral.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/scentral_01/scentral_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_00b.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_10.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_11.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_12.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/sc1_23.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/scentral.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/scentral_01/scentral_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYE_SUNSET</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_citye/sunset/ss1_02.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/sunset/ss1_05.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/ss1_11.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/ss1_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/bt1_05.rpf</Item>
+            <Item>platform:/levels/gta5/_citye/sunset/sunset.rpf</Item>
+			<Item>platform:/levels/gta5/_citye/sunset/sunset_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_02.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_05.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_11.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/ss1_occl.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/bt1_05.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/sunset.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_citye/sunset/sunset_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYW_AIRPORT_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_cityw/airport_01/airport.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/airport_01/ap1_01_a.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/airport_01/ap1_01_c.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/airport_01/ap1_03.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/airport_01/ap1_lod.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/airport_01/airport_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/airport.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/ap1_01_a.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/ap1_01_c.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/ap1_03.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/ap1_lod.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/airport_01/airport_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYW_BEVERLY_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/beverly_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/beverly.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/bh1_03.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/beverly_01/bh1_04.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/beverly_01/bh1_05.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/bh1_08.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/bh1_09.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/beverly_01/bh1_11.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/beverly_01/bh1_13.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/bh1_20.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/bh1_22.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/bh1_40.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/beverly_01/bh1_43.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/beverly_01/bh1_rd.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/beverly_01/bh1_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/beverly_01/bh1_lod.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/beverly_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/beverly.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_03.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_04.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_05.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_08.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_09.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_11.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_13.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_20.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_22.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_40.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_43.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_rd.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_occl.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/beverly_01/bh1_lod.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYW_KOREATOWN_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_cityw/koreatown_01/koreatown_metadata.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/koreatown_01/koreatown.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/koreatown_01/kt1_04.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/koreatown_01/kt1_05.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/koreatown_01/kt1_08.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/koreatown_01/kt1_11.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/koreatown_01/kt1_rd.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/koreatown_01/kt1_occl.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/koreatown_metadata.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/koreatown.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_04.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_05.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_08.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_11.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_rd.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/koreatown_01/kt1_occl.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYW_SANTAMON_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_cityw/santamon_01/sm_13.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/santamon_01/sm_14.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/santamon_01/sm_15.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/santamon_01/sm_16.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/santamon_01/sm_18.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/santamon_01/sm_22.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/santamon_01/sm_24.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/santamon_01/sm_occl.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/santamon_01/santamon.rpf</Item>
+			<Item>platform:/levels/gta5/_cityw/santamon_01/santamon_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_13.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_14.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_15.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_16.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_18.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_22.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_24.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/sm_occl.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/santamon.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/santamon_01/santamon_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_CITYW_VENICE_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_cityw/venice_01/vb_19.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/venice_01/vb_34.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/venice_01/vb_44.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/venice_01/vb_rv.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/venice_01/venice_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_cityw/venice_01/venice.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/venice.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/vb_19.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/vb_34.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/vb_44.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/vb_rv.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_cityw/venice_01/venice_metadata.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_HILLS_COUNTRY_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_hills/country_01/country_01_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/country_01.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_02.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/country_01/cs1_08.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_10.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_11.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_11b.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_12.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_14b.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_lod2.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_roadsa.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_01/cs1_instance_placement.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/country_01_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/country_01.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_02.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_08.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_10.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_11.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_11b.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_12.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_14b.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_lod2.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_roadsa.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_01/cs1_instance_placement.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_HILLS_COUNTRY_02</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_hills/country_02/country_02_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_02/cs2_05.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_02/cs2_08.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_02/cs2_29.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_02/country_02.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_02/cs2_instance_placement.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/country_02_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/cs2_05.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/cs2_08.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/cs2_29.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/country_02.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_02/cs2_instance_placement.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_HILLS_COUNTRY_03</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_hills/country_03/country_03.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_03/country_03_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_03/cs3_04.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_03/cs3_07.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_03/cs3_occl.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/country_03.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/country_03_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/cs3_04.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/cs3_07.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_03/cs3_occl.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_HILLS_COUNTRY_04</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_hills/country_04/cs4_02.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_04/cs4_06.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_04/cs4_10.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_04/country_04.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_04/country_04_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_10.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_02.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/cs4_06.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/country_04.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_04/country_04_metadata.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_HILLS_COUNTRY_06</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_hills/country_06/country_06.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_06/country_06_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/country_06/cs6_04.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_06/country_06.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_06/country_06_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/country_06/cs6_04.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_HILLS_CITYHILLS_01</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>ch1_01_interior_v_genbank_milo_.interior</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_01/cityhills_01.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_01/ch1_01.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_01/ch1_02.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_01/ch1_06e.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_01/ch1_07.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_01/ch1_10.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_01/ch1_lod.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_01/cityhills_01_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_generic_bank.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_yacht.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_yacht_lod.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/yacht.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/yacht_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/cityhills_01.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_01.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_02.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_06e.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_07.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_10.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/ch1_lod.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_01/cityhills_01_metadata.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_HILLS_CITYHILLS_02</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>ch1_01_interior_v_genbank_milo_.interior</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_04.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_07b.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_08.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_09b.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_09c.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_10.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/ch2_11.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/cityhills_02_metadata.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_02/cityhills_02.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_04.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_07b.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_08.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_09b.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_09c.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_10.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/ch2_11.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/cityhills_02_metadata.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_02/cityhills_02.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_HILLS_CITYHILLS_03</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+			<Item>platform:/levels/gta5/_hills/cityhills_03/ch3_04.rpf</Item>
+            <Item>platform:/levels/gta5/_hills/cityhills_03/ch3_08.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/cityhills_03/ch3_12.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/cityhills_03/ch3_lod.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/cityhills_03/ch3_occl.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/cityhills_03/cityhills_03.rpf</Item>
+			<Item>platform:/levels/gta5/_hills/cityhills_03/cityhills_03_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_04.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_08.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_12.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_lod.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/ch3_occl.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/cityhills_03.rpf</Item>
+			<Item>dlcMPHeist:/%PLATFORM%/levels/gta5/_hills/cityhills_03/cityhills_03_metadata.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_PRE_MAP_CHANGES</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/_prologue/plg_occl.rpf</Item>
+            <Item>dlc_patchDay1NG:/%PLATFORM%/levels/gta5/_citye/sunset/sunset_metadata.rpf</Item>
+            <Item>dlc_patchDay2NG:/%PLATFORM%/levels/gta5/_hills/country_06/country_06_metadata.rpf</Item>
+          </filesToInvalidate>
+          <filesToDisable />
+          <filesToEnable>
+            
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_heist_police.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/dlc_mpheist_carrier.rpf</Item>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/interiors/mpheist_yacht.rpf</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_POST_MAP_CHANGES</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap />
+          <filesToInvalidate />
+          <filesToDisable />
+          <filesToEnable>
+            <Item>dlcMPHeist:/common/data/gtxd.meta</Item>
+          </filesToEnable>
+          <txdToLoad />
+          <txdToUnload />
+          <residentResources />
+          <unregisterResources />
+        </Item>
+      </mapChangeSetData>
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_GTA5_LODLIGHTS</changeSetName>
+      <mapChangeSetData>
+        <Item>
+          <associatedMap>MO_JIM_L11</associatedMap>
+          <filesToInvalidate>
+            <Item>platform:/levels/gta5/lodlights.rpf</Item>
+          </filesToInvalidate>
+          <filesToEnable>
+            <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/LODLights.rpf</Item>
+          </filesToEnable>
+        </Item>
+      </mapChangeSetData>
+      <requiresLoadingScreen value="true" />
+      <loadingScreenContext>LOADINGSCREEN_CONTEXT_LAST_FRAME</loadingScreenContext>
+      <useCacheLoader value="true" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHeist:/common/data/srllist.meta</Item>
+        <Item>dlcMPHeist:/common/data/ai/conditionalAnims.meta</Item>
+        <Item>dlcMPHeist:/common/data/ai/scenarios.meta</Item>
+        <Item>dlcMPHeist:/common/data/interiorProxies.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/handling.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ai/weaponTurretTechnical.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ai/weaponVehicleSavage.meta</Item>
+        <Item>dlcMPHeist:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlcMPHeist:/common/data/effects/peds/first_person.meta</Item>
+        <Item>dlcMPHeist:/common/data/effects/peds/first_person_alternates.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/effects/peds/mpHeist_overlays.xml</Item>
+        <Item>dlcMPHeistCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/carcols.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/carvariations.meta</Item>
+        <Item>dlcMPHeist:/common/data/dlctext.meta</Item>
+        <Item>dlcMPHeist:/common/data/explosion.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ig_nervousron_heist.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/cs_nervousron_heist.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/player_two_trevor_heist_shop.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/mp_f_freemode_01_heist_shop.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/mp_m_freemode_01_heist_shop.meta</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlcMPHeistCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcMPHeist:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlcMPHeist:/common/data/overlayinfo.xml</Item>
+        <Item>dlcMPHeist:/common/data/anim/networkdefs.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/pedalternatevariations.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/shop_tattoo.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlcMPHeist:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlcMPHeistCRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_heist_int.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_prison.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_pacific.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_humane.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_narcotic.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/cutscene/cuts_tutorial.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_GAME.DAT</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_MIX.DAT</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_SOUNDS.DAT</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_AMP.DAT</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/audio/dlcmpheist_SPEECH.DAT</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/audio/sfx/dlc_mpheist</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/audio/occlusion.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/expressions.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/anim/networkdefs.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/vehicles/mpheistvehicles.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/wheels2_mods.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/models/cdimages/trevor_outfits.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_componentpeds.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_componentpeds_p.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_cutspeds.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_streamedpeds.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_streamedpeds_p.rpf</Item>
+        <Item>dlcMPHeist:/common/data/peds.meta</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/models/cdimages/mpheist_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/props/lev_des_mp_dlc.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/props/hei_lev_des_mp_dlc.ityp</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/props/mp_residential_heist.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/props/hei_MP_Residential_Heist.ityp</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/props/v_heist1.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/gta5/props/hei_V_Heist1.ityp</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/gburrito2_mods.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/guardian_mods.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/enduro_mods.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/levels/mpheist/vehiclemods/kuruma_mods.rpf</Item>
+        <Item>dlcMPHeist:/%PLATFORM%/textures/script_txds.rpf</Item>
+        <Item>dlcMPHeist:/common/data/effects/scriptfx.dat</Item>
+        <Item>dlcMPHeistCRC:/common/data/effects/explosionfx.dat</Item>
+        <Item>dlcMPHeist:/common/data/effects/peds/peddamage.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHeistCRC:/common/data/heistContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_COMMON_VEHICLE_INSURGENT</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHeistCRC:/common/data/ai/vehiclelayouts_insurgent.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ai/weaponTurretInsurgent.meta</Item>
+        <Item>dlcMPHeist:/common/data/anim/clip_sets/clip_sets_insurgent.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_COMMON_VEHICLE_VALKYRIE</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHeistCRC:/common/data/ai/vehiclelayouts_valkyrie.meta</Item>
+        <Item>dlcMPHeistCRC:/common/data/ai/weaponTurretValkyrie.meta</Item>
+        <Item>dlcMPHeist:/common/data/anim/clip_sets/clip_sets_valkyrie.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_VERSIONED</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPHeist:/%PLATFORM%/data/cdimages/heist_mp.rpf</Item>
+        <Item>dlcMPHeist:/common/data/ui/heist_mp.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPHEIST_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

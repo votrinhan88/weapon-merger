@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/ai/weaponKnuckle.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/ai/weaponMarksmanPistol.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/luxe2ContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/vehicleextras.dat</filename>
+      <fileType>VEHICLEEXTRAS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>  
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/levels/gta5/vehicles/mpluxe2vehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/coquette3_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/brawler_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/vindicator_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/chino_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/t20_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/mppatches_m_outfits.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2:/common/data/effects/peds/first_person_alternates.meta</filename>
+      <fileType>PED_FIRST_PERSON_ALTERNATE_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/effects/peds/mpLuxe2_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/mpluxe2_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2CRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/mpLuxe2_female.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/mpLuxe2_female_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2:/common/data/mp_f_freemode_01_luxe2_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/mpLuxe2_male.rpf</filename>
+      <fileType>PEDSTREAM_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/mpLuxe2_male_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/common/data/mp_m_freemode_01_luxe2_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	
+	<Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/audio/dlcluxe2_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/audio/dlcluxe2_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>    	
+	<Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/audio/dlcluxe2_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/audio/dlcluxe2_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpLuxe2:/%PLATFORM%/audio/sfx/dlc_lux2</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    	<Item platform="ps4|xboxone">
+      <filename>dlc_mpLuxe2:/%PLATFORM%/audio/dlcthelab_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item platform="ps4|xboxone">
+      <filename>dlc_mpLuxe2:/%PLATFORM%/audio/dlcthelab_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item platform="ps4|xboxone">
+      <filename>dlc_mpLuxe2:/%PLATFORM%/audio/sfx/dlc_thelab</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPLUXE2_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpLuxe2CRC:/common/data/handling.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/levels/gta5/vehicles.meta</Item>
+	    <Item>dlc_mpLuxe2CRC:/common/data/carcols.meta</Item>
+	    <Item>dlc_mpLuxe2CRC:/common/data/carvariations.meta</Item>
+        <Item>dlc_mpLuxe2:/common/data/dlctext.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlc_mpLuxe2:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/pedpersonality.meta</Item>
+		<Item>dlc_mpLuxe2CRC:/common/data/effects/peds/mpLuxe2_overlays.xml</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/shop_tattoo.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlc_mpLuxe2:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlc_mpLuxe2CRC:/common/data/vehicleextras.dat</Item>	
+        <Item>dlc_mpLuxe2CRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlc_mpLuxe2:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+        <Item>dlc_mpLuxe2:/%PLATFORM%/levels/gta5/vehicles/mpluxe2vehicles.rpf</Item>
+       	<Item>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/t20_mods.rpf</Item>
+       	<Item>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/coquette3_mods.rpf</Item>  
+       	<Item>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/brawler_mods.rpf</Item>       	
+       	<Item>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/vindicator_mods.rpf</Item>   
+       	<Item>dlc_mpLuxe2:/%PLATFORM%/levels/mpluxe2/vehiclemods/chino_mods.rpf</Item>
+       	<Item>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+        <Item>dlc_mpluxe2CRC:/common/data/pedalternatevariations.meta</Item>
+        <Item>dlc_mpluxe2:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlc_mpluxe2:/common/data/effects/peds/first_person_alternates.meta</Item>
+        <Item>dlc_mpluxe2:/%PLATFORM%/models/cdimages/mpLuxe2_female.rpf</Item>
+        <Item>dlc_mpluxe2:/%PLATFORM%/models/cdimages/mpLuxe2_female_p.rpf</Item>
+		<Item>dlc_mpluxe2:/common/data/mp_f_freemode_01_luxe2_shop.meta</Item>
+        <Item>dlc_mpluxe2:/%PLATFORM%/models/cdimages/mpLuxe2_male.rpf</Item>
+        <Item>dlc_mpluxe2:/%PLATFORM%/models/cdimages/mpLuxe2_male_p.rpf</Item>
+		<Item>dlc_mpLuxe2:/%PLATFORM%/models/cdimages/mpluxe2_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlc_mpluxe2:/common/data/mp_m_freemode_01_luxe2_shop.meta</Item>
+		<Item>dlc_mpLuxe2:/%PLATFORM%/audio/dlcluxe2_GAME.DAT</Item>
+        <Item>dlc_mpLuxe2:/%PLATFORM%/audio/dlcluxe2_SOUNDS.DAT</Item>
+		
+        <Item>dlc_mpLuxe2:/%PLATFORM%/audio/dlcluxe2_amp.DAT</Item>
+		<Item>dlc_mpLuxe2:/%PLATFORM%/audio/sfx/dlc_lux2</Item>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>	
+	 <Item platform="ps4|xboxone">
+      <changeSetName>MPLUXE2_PLATFORM_SPECS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+		<Item>dlc_mpLuxe2:/%PLATFORM%/audio/sfx/dlc_thelab</Item>
+		<Item>dlc_mpLuxe2:/%PLATFORM%/audio/dlcthelab_SOUNDS.DAT</Item>
+		<Item>dlc_mpLuxe2:/%PLATFORM%/audio/dlcthelab_GAME.DAT</Item>
+	  </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPLUXE2_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpLuxe2CRC:/common/data/luxe2ContentUnlocks.meta</Item>
+      </filesToEnable>
+	  <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+    <Item>
+      <changeSetName>MPLUXE2_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+      <requiresLoadingScreen value="false" />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

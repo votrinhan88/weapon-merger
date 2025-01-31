@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlcMpPilot:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilotCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/data/cdimages/carrec.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/textures/script_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/levels/gta5/props/mppilot_props.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/levels/gta5/props/pil_mppilot_props.ityp</filename>
+      <fileType>DLC_ITYP_REQUEST</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+      <contents>CONTENTS_PROPS</contents>
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/effects/vfxvehicleinfo.meta</filename>
+      <fileType>VFXVEHICLEINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilotCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/levels/gta5/vehicles/pilotvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/levels/mppilot/vehiclemods/coquette2_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPPilot:/%PLATFORM%/models/cdimages/mppilot_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlcMPPilot:/common/data/effects/peds/mppilot_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/audio/config/dlcpilotschool_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/audio/config/dlcpilotschool_mix.dat</filename>
+      <fileType>AUDIO_DYNAMIXDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/audio/config/dlcpilotschool_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMpPilot:/%PLATFORM%/audio/config/dlcpilotschool_speech.dat</filename>
+      <fileType>AUDIO_SPEECHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/%PLATFORM%/audio/sfx/dlc_pilotschool</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMpPilot:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/pilotContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilotCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilotCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/mp_f_freemode_01_pilot_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/mp_m_freemode_01_pilot_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlcMPPilot:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>   
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/models/cdimages/mppilot.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/models/cdimages/mppilot_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/ui/CacheAndCarry.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/ui/Docktease.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/ui/ElitasTravel.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/ui/LegendaryMotorsport.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/ui/SuperAutos.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/data/cdimages/Docktease.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/data/cdimages/ElitasTravel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/data/cdimages/SuperAutos.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/data/cdimages/Warstock.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPPilot:/common/data/effects/scriptfx.dat</filename>
+      <fileType>SCRIPTFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPPILOT_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMpPilotCRC:/common/data/handling.meta</Item>
+        <Item>dlcMPPilot:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlcMPPilot:/common/data/anim/clip_sets/clip_sets.xml</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/data/cdimages/carrec.rpf</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/textures/script_txds.rpf</Item>
+        <Item>dlcMPPilot:/common/data/dlctext.meta</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item> 
+        <Item>dlcMPPilot:/%PLATFORM%/levels/gta5/props/mppilot_props.rpf</Item>
+        <Item>dlcMpPilot:/%PLATFORM%/levels/gta5/props/pil_mppilot_props.ityp</Item>
+        <Item>dlcMPPilot:/common/data/effects/vfxvehicleinfo.meta</Item>
+        <Item>dlcMpPilotCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlcMPPilot:/common/data/carcols.meta</Item>
+        <Item>dlcMPPilot:/common/data/carvariations.meta</Item>
+        <Item>dlcMPPilot:/common/data/overlayinfo.xml</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/levels/gta5/vehicles/pilotvehicles.rpf</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/levels/mppilot/vehiclemods/coquette2_mods.rpf</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/audio/config/dlcpilotschool_GAME.DAT</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/audio/config/dlcpilotschool_MIX.DAT</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/audio/config/dlcpilotschool_SOUNDS.DAT</Item>
+		<Item>dlcMPPilot:/%PLATFORM%/audio/config/dlcpilotschool_SPEECH.DAT</Item>
+        <Item>dlcMpPilot:/%PLATFORM%/audio/sfx/dlc_pilotschool</Item>
+        <Item>dlcMPPilot:/common/data/shop_vehicle.meta</Item>
+        <Item>dlcMPPilotCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlcMPPilotCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcMPPilot:/common/data/mp_f_freemode_01_pilot_shop.meta</Item>
+        <Item>dlcMPPilot:/common/data/mp_m_freemode_01_pilot_shop.meta</Item>	
+		<Item>dlcMPPilot:/common/data/shop_tattoo.meta</Item>
+		<Item>dlcMPPilot:/common/data/pedalternatevariations.meta</Item>
+		<Item>dlcMPPilot:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlcMPPilot:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+		<Item>dlcMPPilot:/%PLATFORM%/models/cdimages/mppilot.rpf</Item>	
+		<Item>dlcMPPilot:/%PLATFORM%/models/cdimages/mppilot_p.rpf</Item>
+		<Item>dlcMPPilot:/%PLATFORM%/models/cdimages/mppilot_ped_mp_overlay_txds.rpf</Item>
+		<Item>dlcMPPilot:/common/data/effects/peds/mppilot_overlays.xml</Item>
+        <Item>dlcMPPilot:/common/data/effects/scriptfx.dat</Item>
+        <Item>dlcMPPilot:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPPILOT_UNLOCKS_AUTOGEN</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPPilot:/common/data/pilotContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+	<Item>
+      <changeSetName>MPPILOT_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPPilot_LegendaryMotorsport</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPPilot:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</Item>
+        <Item>dlcMPPilot:/common/data/ui/LegendaryMotorsport.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPPilot_SuperAutos</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPPilot:/%PLATFORM%/data/cdimages/SuperAutos.rpf</Item>
+        <Item>dlcMPPilot:/common/data/ui/SuperAutos.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPPilot_Docktease</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPPilot:/%PLATFORM%/data/cdimages/docktease.rpf</Item>
+        <Item>dlcMPPilot:/common/data/ui/Docktease.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPPilot_CacheAndCarry</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPPilot:/%PLATFORM%/data/cdimages/warstock.rpf</Item>
+        <Item>dlcMPPilot:/common/data/ui/CacheAndCarry.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPPilot_ElitasTravel</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPPilot:/%PLATFORM%/data/cdimages/elitastravel.rpf</Item>
+        <Item>dlcMPPilot:/common/data/ui/ElitasTravel.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>

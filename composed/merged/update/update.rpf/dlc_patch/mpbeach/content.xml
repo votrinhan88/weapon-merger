@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlcMPBeach:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/ai/weaponBottle.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/ai/weaponSNSPistol.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/effects/peds/mpBeach_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/levels/gta5/vehicles.meta</filename>
+      <fileType>VEHICLE_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/ui/CacheAndCarry.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/ui/Docktease.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/ui/ElitasTravel.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/ui/LegendaryMotorsport.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/ui/SuperAutos.xml</filename>
+      <fileType>SCALEFORM_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/beachContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/carcols.meta</filename>
+      <fileType>CARCOLS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/carvariations.meta</filename>
+      <fileType>VEHICLE_VARIATION_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/mp_f_freemode_01_beach_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/mp_m_freemode_01_beach_shop.meta</filename>
+      <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/vehicleextras.dat</filename>
+      <fileType>VEHICLEEXTRAS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeachCRC:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/audio/dlcbeach_GAME.DAT</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/audio/dlcbeach_SOUNDS.DAT</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/data/cdimages/Docktease.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/data/cdimages/ElitasTravel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/data/cdimages/SuperAutos.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/data/cdimages/Warstock.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/levels/gta5/vehicles/mpbeachvehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/levels/mpbeach/vehiclemods/bifta_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/levels/mpbeach/vehiclemods/kalahari_mods.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/models/cdimages/mpbeach.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/models/cdimages/mpbeach_p.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/models/cdimages/mpbeach_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+
+    <Item>
+      <filename>dlcMPBeach:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPBEACH_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>	  
+		<Item>dlcMPBeach:/common/data/effects/peds/first_person.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/handling.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/effects/peds/mpBeach_overlays.xml</Item>
+        <Item>dlcMPBeachCRC:/common/data/levels/gta5/vehicles.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/carcols.meta</Item>
+        <Item>dlcMPBeach:/common/data/carvariations.meta</Item>
+        <Item>dlcMPBeach:/common/data/dlctext.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/mp_f_freemode_01_beach_shop.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/mp_m_freemode_01_beach_shop.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlcMPBeach:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlcMPBeach:/common/data/overlayinfo.xml</Item>
+        <Item>dlcMPBeachCRC:/common/data/pedalternatevariations.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/pedpersonality.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/shop_tattoo.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/shop_vehicle.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/shop_weapon.meta</Item>
+        <Item>dlcMPBeachCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlcMPBeach:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlcMPBeachCRC:/common/data/vehicleextras.dat</Item>
+        <Item>dlcMPBeachCRC:/common/data/weaponArchetypes.meta</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/audio/dlcbeach_GAME.DAT</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/audio/dlcbeach_SOUNDS.DAT</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/levels/gta5/vehicles/mpbeachvehicles.rpf</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/levels/mpbeach/vehiclemods/bifta_mods.rpf</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/levels/mpbeach/vehiclemods/kalahari_mods.rpf</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/models/cdimages/mpbeach.rpf</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/models/cdimages/mpbeach_p.rpf</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/models/cdimages/mpbeach_ped_mp_overlay_txds.rpf</Item>
+        <Item>dlcMPBeach:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPBEACH_UNLOCKS_AUTOGEN</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBeachCRC:/common/data/beachContentUnlocks.meta</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBeach_Docktease</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBeach:/%PLATFORM%/data/cdimages/docktease.rpf</Item>
+        <Item>dlcMPBeach:/common/data/ui/Docktease.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBeach_CacheAndCarry</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBeach:/%PLATFORM%/data/cdimages/warstock.rpf</Item>
+        <Item>dlcMPBeach:/common/data/ui/CacheAndCarry.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBeach_SuperAutos</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBeach:/%PLATFORM%/data/cdimages/superautos.rpf</Item>
+        <Item>dlcMPBeach:/common/data/ui/SuperAutos.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBeach_LegendaryMotorsport</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBeach:/%PLATFORM%/data/cdimages/legendarymotsport.rpf</Item>
+        <Item>dlcMPBeach:/common/data/ui/LegendaryMotorsport.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBeach_ElitasTravel</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlcMPBeach:/%PLATFORM%/data/cdimages/elitastravel.rpf</Item>
+        <Item>dlcMPBeach:/common/data/ui/ElitasTravel.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBeach_mpFixes</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpBeach_pedOverlayFixes</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+  </contentChangeSets>
+  <patchFiles>
+  </patchFiles>
+
+</CDataFileMgr__ContentsOfDataFileXml>

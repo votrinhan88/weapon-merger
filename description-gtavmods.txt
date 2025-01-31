@@ -1,17 +1,15 @@
-# weapon-merger
-Script to merge weapons data files in GTA V for modding | Version 1.0 | [gta5-mods.com](https://www.gta5-mods.com/tools/weapon-merger)
+<b>weapon-merger</b>
+Script to merge weapons data files in GTA V for modding. - Version 1.0 | <a href="https://github.com/votrinhan88/weapon-merger">GitHub</a>
 
-### What this script does:
-**TLDR:** Merge all vanilla `weapon*.meta` and `pickups.meta` to a single file
-<details><summary>Details</summary>
-
+<b>What this script does:</b>
+<b>TLDR:</b> Merge all vanilla `weapon*.meta` and `pickups.meta` to a single file
 1. Crawl list of all DLCs from latest `dlclist.xml`
 2. Crawl list of all DLC patches from latest `extratitleupdatedata.meta`
 3. Scan for all content.xml, weapon<...>.meta, pickups.meta files in all dlc archives
-    + Other filetypes can be adapted by writing new parser in `./resources/parser.py`
+____+ Other filetypes can be adapted by writing new parser in `./resources/parser.py`
 4. Merge all vanilla `weapon*.meta` files and export to `outputs/merged/update/update.rpf/common/data/ai/weapons.meta`
 5. Merge all vanilla `pickups.meta` files and export to `outputs/merged/update/update.rpf/common/data/pickups.meta`
-6. Patch `content.xml` in every **processed** DLCs to deactivate loading of old weapon-.meta and pickups.meta and export them to `./outputs/merged/update/update.rpf/dlc_patch`
+6. Patch `content.xml` in every <b>processed</b> DLCs to deactivate loading of old weapon-.meta and pickups.meta and export them to `./outputs/merged/update/update.rpf/dlc_patch`
 7. Export documents on list of dlcs, and list of weapons/ammos/pickups by DLC.
 </details>
 
@@ -25,7 +23,7 @@ Script to merge weapons data files in GTA V for modding | Version 1.0 | [gta5-mo
 1. For end-users (who do not necessarily need this mod): Copy everything in `./composed/merged/update/update.rpf` to `GTA V/mods/update/update.rpf`.
     + This does not make any changes to vanilla weapons in-game.
 2. For developers (target users of this mod):
-    1. (Optional, Recommended): Install [miniconda](https://docs.anaconda.com/miniconda/install/)
+    1. (Optional, Recommended): Install <a href="https://docs.anaconda.com/miniconda/install/">miniconda</a>
     2. (Optional, Recommended): With installed conda, create environment from terminal `conda env create -f environment.yaml`
     3. (Optional, Recommended): Activate environment: `conda activate weapon-merger`
     4. Extract `weapons-pickups-meta-backup-1.70.7z` to current folder (same level as this file).

@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles />
+  <includedXmlFiles />
+  <includedDataFiles />
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/effects/peds/first_person.meta</filename>
+      <fileType>PED_FIRST_PERSON_ASSET_DATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/overlayinfo.xml</filename>
+      <fileType>OVERLAY_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependenceCRC:/common/data/effects/explosionfx.dat</filename>
+      <fileType>EXPLOSIONFX_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpIndependenceCRC:/common/data/handling.meta</filename>
+      <fileType>HANDLING_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/%PLATFORM%/models/cdimages/mpindependence.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/%PLATFORM%/models/cdimages/mpindependence_p.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/%PLATFORM%/anim/creaturemetadata.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/pedalternatevariations.meta</filename>
+      <fileType>ALTERNATE_VARIATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependenceCRC:/common/data/ai/loadouts.meta</filename>
+      <fileType>LOADOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/ai/vehiclelayouts.meta</filename>
+      <fileType>VEHICLE_LAYOUTS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/ai/weaponanimations.meta</filename>
+      <fileType>WEAPON_ANIMATIONS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependenceCRC:/common/data/ai/weaponcomponents.meta</filename>
+      <fileType>WEAPONCOMPONENTSINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependenceCRC:/common/data/ai/weaponFirework.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependenceCRC:/common/data/ai/weaponMusket.meta</filename>
+      <fileType>WEAPONINFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/anim/clip_sets/clip_sets.xml</filename>
+      <fileType>CLIP_SETS_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/mp_f_freemode_01_independence_shop.meta</filename>
+	  <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/mp_m_freemode_01_independence_shop.meta</filename>
+	  <fileType>SHOP_PED_APPAREL_META_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+      <filename>dlc_mpIndependence:/common/data/shop_tattoo.meta</filename>
+      <fileType>TATTOO_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/%PLATFORM%/data/effects/ptfx.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpIndependenceCRC:/common/data/levels/gta5/vehicles.meta</filename>
+	  <fileType>VEHICLE_METADATA_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>		
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/carcols.meta</filename>
+	  <fileType>CARCOLS_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>		
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/carvariations.meta</filename>
+	  <fileType>VEHICLE_VARIATION_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>	
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/dlctext.meta</filename>
+      <fileType>TEXTFILE_METAFILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/explosion.meta</filename>
+      <fileType>EXPLOSION_INFO_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/independenceContentUnlocks.meta</filename>
+      <fileType>CONTENT_UNLOCKING_META_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+	<Item>
+      <filename>dlc_mpIndependenceCRC:/common/data/mpStatsSetup.xml</filename>
+      <fileType>MP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/mpStatsUISetup.xml</filename>
+      <fileType>MP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/pedpersonality.meta</filename>
+      <fileType>PED_PERSONALITY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/pickups.meta</filename>
+      <fileType>DLC_WEAPON_PICKUPS</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/shop_vehicle.meta</filename>
+      <fileType>VEHICLE_SHOP_DLC_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/shop_weapon.meta</filename>
+      <fileType>WEAPON_SHOP_INFO_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependenceCRC:/common/data/spStatsSetup.xml</filename>
+      <fileType>SP_STATS_DISPLAY_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/spStatsUISetup.xml</filename>
+      <fileType>SP_STATS_UI_LIST_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/common/data/weaponArchetypes.meta</filename>
+      <fileType>WEAPON_METADATA_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>	
+ 	<Item>
+   	  <filename>dlc_mpIndependence:/%PLATFORM%/levels/gta5/vehicles/mpindependencevehicles.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+ 	<Item>
+   	  <filename>dlc_mpIndependence:/%PLATFORM%/levels/gta5/props/dlc_lev_des.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+          <filename>dlc_mpIndependence:/%PLATFORM%/levels/gta5/props/ind_dlc_lev_des.ityp</filename>
+          <fileType>DLC_ITYP_REQUEST</fileType>
+          <overlay value="false" />
+          <disabled value="true" />
+          <persistent value="false" />
+          <contents>CONTENTS_PROPS</contents>
+    </Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/%PLATFORM%/models/cdimages/weapons.rpf</filename>
+	  <fileType>RPF_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="true" />
+	</Item>
+	<Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/models/cdimages/mpindependence_ped_mp_overlay_txds.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+      <filename>dlc_mpIndependence:/common/data/effects/peds/mpindependence_overlays.xml</filename>
+      <fileType>PED_OVERLAY_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/audio/config/dlcindependence_game.dat</filename>
+      <fileType>AUDIO_GAMEDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/audio/config/dlcindependence_sounds.dat</filename>
+      <fileType>AUDIO_SOUNDDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/audio/config/dlcindependence_amp.dat</filename>
+      <fileType>AUDIO_SYNTHDATA</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/audio/sfx/dlc_independence</filename>
+      <fileType>AUDIO_WAVEPACK</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="false" />
+    </Item>
+	<Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/anim/ingame/clip_ANIM@.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/ui/CacheAndCarry.xml</filename>
+	  <fileType>SCALEFORM_DLC_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/ui/Docktease.xml</filename>
+	  <fileType>SCALEFORM_DLC_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/ui/ElitasTravel.xml</filename>
+	  <fileType>SCALEFORM_DLC_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/ui/LegendaryMotorsport.xml</filename>
+	  <fileType>SCALEFORM_DLC_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+	  <filename>dlc_mpIndependence:/common/data/ui/SuperAutos.xml</filename>
+	  <fileType>SCALEFORM_DLC_FILE</fileType>
+	  <overlay value="false" />
+	  <disabled value="true" />
+	  <persistent value="false" />
+	</Item>
+	<Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/data/cdimages/Docktease.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/data/cdimages/ElitasTravel.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/data/cdimages/SuperAutos.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>
+    <Item>
+      <filename>dlc_mpIndependence:/%PLATFORM%/data/cdimages/Warstock.rpf</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="true" />
+      <disabled value="true" />
+      <persistent value="true" />
+    </Item>	
+  </dataFiles>
+  <contentChangeSets>
+	<Item>
+	  <changeSetName>mpIndependence_AUTOGEN</changeSetName>
+	  <filesToDisable />
+	  <filesToEnable>
+		<Item>dlc_mpIndependence:/common/data/effects/peds/first_person.meta</Item>
+		<Item>dlc_mpIndependence:/common/data/overlayinfo.xml</Item>	  
+		<Item>dlc_mpIndependenceCRC:/common/data/effects/explosionfx.dat</Item>
+        <Item>dlc_mpIndependenceCRC:/common/data/handling.meta</Item>
+        <Item>dlc_mpIndependenceCRC:/common/data/ai/loadouts.meta</Item>
+        <Item>dlc_mpIndependence:/common/data/ai/vehiclelayouts.meta</Item>
+        <Item>dlc_mpIndependence:/common/data/ai/weaponanimations.meta</Item>
+        <Item>dlc_mpIndependenceCRC:/common/data/ai/weaponcomponents.meta</Item>
+        <Item>dlc_mpIndependence:/common/data/anim/clip_sets/clip_sets.xml</Item>
+	  	<Item>dlc_mpIndependenceCRC:/common/data/levels/gta5/vehicles.meta</Item>
+		<Item>dlc_mpIndependence:/common/data/carvariations.meta</Item>	
+        <Item>dlc_mpIndependence:/common/data/dlctext.meta</Item>	
+        <Item>dlc_mpIndependence:/common/data/explosion.meta</Item>	
+	  	<Item>dlc_mpIndependence:/common/data/mp_f_freemode_01_independence_shop.meta</Item>
+	  	<Item>dlc_mpIndependence:/common/data/mp_m_freemode_01_independence_shop.meta</Item>
+		<Item>dlc_mpIndependence:/common/data/shop_tattoo.meta</Item>
+		<Item>dlc_mpIndependenceCRC:/common/data/mpStatsSetup.xml</Item>
+        <Item>dlc_mpIndependence:/common/data/mpStatsUISetup.xml</Item>
+        <Item>dlc_mpIndependence:/common/data/pedpersonality.meta</Item>
+        <Item>dlc_mpIndependence:/common/data/shop_vehicle.meta</Item>
+        <Item>dlc_mpIndependence:/common/data/shop_weapon.meta</Item>
+        <Item>dlc_mpIndependenceCRC:/common/data/spStatsSetup.xml</Item>
+        <Item>dlc_mpIndependence:/common/data/spStatsUISetup.xml</Item>
+        <Item>dlc_mpIndependence:/common/data/weaponArchetypes.meta</Item>
+	  	<Item>dlc_mpIndependence:/%PLATFORM%/anim/creaturemetadata.rpf</Item>
+		<Item>dlc_mpIndependence:/common/data/pedalternatevariations.meta</Item>
+	  	<Item>dlc_mpIndependence:/%PLATFORM%/data/effects/ptfx.rpf</Item>
+	  	<Item>dlc_mpIndependence:/%PLATFORM%/levels/gta5/vehicles/mpindependencevehicles.rpf</Item>
+		<Item>dlc_mpIndependence:/%PLATFORM%/levels/gta5/props/dlc_lev_des.rpf</Item>
+		<Item>dlc_mpIndependence:/%PLATFORM%/levels/gta5/props/ind_dlc_lev_des.ityp</Item>
+	  	<Item>dlc_mpIndependence:/%PLATFORM%/models/cdimages/mpindependence.rpf</Item>
+	  	<Item>dlc_mpIndependence:/%PLATFORM%/models/cdimages/mpindependence_p.rpf</Item>
+	  	<Item>dlc_mpIndependence:/%PLATFORM%/models/cdimages/weapons.rpf</Item>
+		<Item>dlc_mpIndependence:/%PLATFORM%/models/cdimages/mpindependence_ped_mp_overlay_txds.rpf</Item>
+		<Item>dlc_mpIndependence:/common/data/effects/peds/mpindependence_overlays.xml</Item>
+		<Item>dlc_mpIndependence:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+      <Item>dlc_mpIndependence:/%PLATFORM%/audio/config/dlcindependence_GAME.DAT</Item>
+      <Item>dlc_mpIndependence:/%PLATFORM%/audio/config/dlcindependence_SOUNDS.DAT</Item>
+      <Item>dlc_mpIndependence:/%PLATFORM%/audio/config/dlcindependence_AMP.DAT</Item>
+      <Item>dlc_mpIndependence:/%PLATFORM%/audio/sfx/dlc_independence</Item>
+
+    </filesToEnable>
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	</Item>
+	<Item>
+	  <changeSetName>mpIndependence_UNLOCKS_AUTOGEN</changeSetName>
+	  <filesToDisable />
+	  <filesToEnable>
+        <Item>dlc_mpIndependence:/common/data/independenceContentUnlocks.meta</Item>	    
+	  </filesToEnable>
+	  <txdToLoad />
+	  <txdToUnload />
+	  <residentResources />
+	  <unregisterResources />
+	</Item>
+	
+    <Item>
+      <changeSetName>mpIndependence_LegendaryMotorsport</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+		<Item>dlc_mpIndependence:/%PLATFORM%/data/cdimages/LegendaryMotSport.rpf</Item>
+		<Item>dlc_mpIndependence:/common/data/ui/LegendaryMotorsport.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpIndependence_SuperAutos</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+		<Item>dlc_mpIndependence:/%PLATFORM%/data/cdimages/SuperAutos.rpf</Item>
+		<Item>dlc_mpIndependence:/common/data/ui/SuperAutos.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpIndependence_Docktease</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpIndependence:/%PLATFORM%/data/cdimages/docktease.rpf</Item>
+        <Item>dlc_mpIndependence:/common/data/ui/Docktease.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpIndependence_CacheAndCarry</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpIndependence:/%PLATFORM%/data/cdimages/warstock.rpf</Item>
+        <Item>dlc_mpIndependence:/common/data/ui/CacheAndCarry.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>mpIndependence_ElitasTravel</changeSetName>
+      <filesToDisable />
+      <filesToEnable>
+        <Item>dlc_mpIndependence:/%PLATFORM%/data/cdimages/elitastravel.rpf</Item>
+        <Item>dlc_mpIndependence:/common/data/ui/ElitasTravel.xml</Item>
+      </filesToEnable>
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+    <Item>
+      <changeSetName>MPINDEPENDENCE_ANIM_OVERLAYS</changeSetName>
+      <mapChangeSetData />
+      <filesToInvalidate />
+      <filesToDisable />
+      <filesToEnable />
+      <txdToLoad />
+      <txdToUnload />
+      <residentResources />
+      <unregisterResources />
+    </Item>
+		
+	</contentChangeSets>
+	<patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
